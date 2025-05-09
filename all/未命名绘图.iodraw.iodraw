@@ -28,6 +28,12 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-440" value="右侧视图容器(QStackedWidget)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1060" y="700" width="256" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-464" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-441" target="K1q46cgnioQDXiR4tbvy-443">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-465" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-441" target="K1q46cgnioQDXiR4tbvy-444">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-441" value="按钮组(QButtonGroup)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="494" y="830" width="222" height="48" as="geometry" />
         </mxCell>
