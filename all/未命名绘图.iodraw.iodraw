@@ -20,13 +20,13 @@
           <mxGeometry x="3084" y="110" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-625" value="火焰检测&#xa;FireDetector" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2920" y="230" width="230" height="48" as="geometry" />
+          <mxGeometry x="2990" y="230" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-626" value="视频流控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3240" y="230" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-636" value="帧处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2598" y="350" width="22" height="70" as="geometry" />
+          <mxGeometry x="2980" y="330" width="22" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-637" value="火焰识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3023" y="330" width="24" height="80" as="geometry" />
