@@ -4,6 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="K1q46cgnioQDXiR4tbvy-202" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-171">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1680" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-171" value="视频流处理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1892" y="1150" width="172" height="48" as="geometry" />
         </mxCell>
