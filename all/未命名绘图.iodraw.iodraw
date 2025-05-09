@@ -90,12 +90,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-42" value="连接成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-22" target="K1q46cgnioQDXiR4tbvy-20">
-          <mxGeometry x="-1" y="-114" relative="1" as="geometry">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-42" value="连接成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
+          <mxGeometry x="0.26" y="-14" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="348" y="729" />
+              <mxPoint x="348" y="584" />
             </Array>
-            <mxPoint x="2" y="-20" as="offset" />
+            <mxPoint x="462" y="465" as="sourcePoint" />
+            <mxPoint x="214.32352941176464" y="584" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-43" value="请求传感器数据和视频流" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-20" target="K1q46cgnioQDXiR4tbvy-23">
