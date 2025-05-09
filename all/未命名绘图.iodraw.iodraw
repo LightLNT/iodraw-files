@@ -14,7 +14,7 @@
           <mxGeometry x="2010" y="150" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-570" value="数据库连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2725" y="150" width="140" height="48" as="geometry" />
+          <mxGeometry x="2540" y="130" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-571" value="日期范围选择器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="990" y="248" width="172" height="48" as="geometry" />
@@ -39,9 +39,6 @@
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-578" value="分页控件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2271" y="248" width="124" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-581" value="对比分析图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2440" y="248" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-582" value="查询执行器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2630" y="248" width="140" height="48" as="geometry" />
