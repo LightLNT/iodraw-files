@@ -29,7 +29,7 @@
           <mxGeometry x="760" y="1810" width="20" height="113" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-115" value="统计数据查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="820" y="1815" width="23" height="103" as="geometry" />
+          <mxGeometry x="820" y="1810" width="23" height="110" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-116" value="数据导出功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="890" y="1810" width="17" height="113" as="geometry" />
