@@ -20,7 +20,7 @@
           <mxGeometry x="602" y="350" width="150" height="1300" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-25" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="K1q46cgnioQDXiR4tbvy-24">
-          <mxGeometry x="70" y="163" width="10" height="226" as="geometry" />
+          <mxGeometry x="70" y="163" width="10" height="147" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-26" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="K1q46cgnioQDXiR4tbvy-24">
           <mxGeometry x="70" y="487" width="10" height="54" as="geometry" />
@@ -91,7 +91,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-42" value="连接成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
-          <mxGeometry x="0.26" y="-14" relative="1" as="geometry">
+          <mxGeometry x="0.26" y="6" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="348" y="584" />
             </Array>
