@@ -44,7 +44,7 @@
           <mxGeometry x="70" y="271" width="10" height="89" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-33" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="K1q46cgnioQDXiR4tbvy-31">
-          <mxGeometry x="70" y="703" width="10" height="162" as="geometry" />
+          <mxGeometry x="70" y="540" width="10" height="162" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-34" value="风险评估模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="1202" y="350" width="150" height="1160" as="geometry" />
@@ -138,14 +138,14 @@
             <mxPoint x="472" y="885" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-48" value="传递视频帧" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-48" value="传递视频帧" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="K1q46cgnioQDXiR4tbvy-31">
           <mxGeometry x="-0.1378" y="10" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="960" y="980" />
-              <mxPoint x="986" y="1043" />
+              <mxPoint x="960" y="1050" />
+              <mxPoint x="986" y="1113" />
             </Array>
-            <mxPoint x="876.3235294117649" y="980" as="sourcePoint" />
-            <mxPoint x="1077" y="1042.9999999999998" as="targetPoint" />
+            <mxPoint x="876.3235294117649" y="1050" as="sourcePoint" />
+            <mxPoint x="1077" y="1112.9999999999998" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
