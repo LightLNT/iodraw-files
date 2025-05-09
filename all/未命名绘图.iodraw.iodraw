@@ -8,7 +8,7 @@
           <mxGeometry x="1880" y="1920" width="174" height="217" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-149" value="数据源(PostgreSQL Database)" style="whiteSpace=wrap;strokeWidth=2;direction=east;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1670" width="194" height="66" as="geometry" />
+          <mxGeometry x="1180" y="1430" width="194" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-150" value="传感器数据转换与预处理模块" style="whiteSpace=wrap;strokeWidth=2;direction=east;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="1169" y="1670" width="252" height="66" as="geometry" />
