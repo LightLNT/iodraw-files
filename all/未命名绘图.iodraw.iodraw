@@ -11,7 +11,7 @@
           <mxGeometry x="1260" y="230" width="142" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-228" value="图像预处理" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="230" width="110" height="48" as="geometry" />
+          <mxGeometry x="995" y="150" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-229" value="火焰检测算法" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="826" y="160" width="20" height="110" as="geometry" />
