@@ -35,10 +35,10 @@
           <mxGeometry x="129.5" y="788" width="135" height="135" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1046" value="评估火灾风险" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="119" y="1152" width="156" height="48" as="geometry" />
+          <mxGeometry x="119" y="960" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1047" value="发送警报信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="119" y="1250" width="156" height="48" as="geometry" />
+          <mxGeometry x="119" y="1040" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1048" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1037" target="K1q46cgnioQDXiR4tbvy-1038">
           <mxGeometry relative="1" as="geometry">
