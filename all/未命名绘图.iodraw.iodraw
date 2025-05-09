@@ -93,7 +93,7 @@
           <mxGeometry x="1470" y="1370" width="19" height="113" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-180" value="帧缓冲管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1611" y="1347" width="19" height="123" as="geometry" />
+          <mxGeometry x="1671.5" y="1370" width="19" height="110" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-181" value="帧格式转换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1801" y="1347" width="140" height="48" as="geometry" />
