@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="K1q46cgnioQDXiR4tbvy-863" value="模块间数据流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="767" y="367" width="1238" height="640" as="geometry" />
+          <mxGeometry x="850" y="367" width="1238" height="640" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-864" value="传感器数据流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="787" y="392" width="745" height="197" as="geometry" />
