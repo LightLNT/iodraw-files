@@ -11,7 +11,7 @@
           <mxGeometry x="1144" y="120" width="181" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-530" value="数据卡片组件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="843" y="230" width="156" height="48" as="geometry" />
+          <mxGeometry x="980" y="236" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-531" value="趋势图组件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1164" y="236" width="140" height="48" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="688" y="334" width="132" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-536" value="eCO2卡片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="870" y="334" width="129" height="48" as="geometry" />
+          <mxGeometry x="1035" y="310" width="25" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-537" value="温湿度趋势图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1210" y="334" width="25" height="106" as="geometry" />
