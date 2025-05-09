@@ -11,7 +11,7 @@
           <mxGeometry x="1260" y="230" width="142" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-228" value="图像预处理" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="240" width="110" height="48" as="geometry" />
+          <mxGeometry x="910" y="240" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-229" value="火焰检测算法" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="204" y="1039" width="126" height="48" as="geometry" />
@@ -29,10 +29,10 @@
           <mxGeometry x="1150" y="390" width="142" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-234" value="图像缩放" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="380" width="94" height="48" as="geometry" />
+          <mxGeometry x="1030" y="390" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-236" value="归一化处理" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="448" width="110" height="48" as="geometry" />
+          <mxGeometry x="800" y="380" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-237" value="通道转换" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="412" y="940" width="94" height="48" as="geometry" />
@@ -111,7 +111,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-235" value="色彩空间转换" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="380" width="126" height="48" as="geometry" />
+          <mxGeometry x="902" y="380" width="126" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
