@@ -82,7 +82,12 @@
           <mxGeometry x="2064" y="1240" width="16" height="102" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-175" target="K1q46cgnioQDXiR4tbvy-184">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2288" y="1370" />
+              <mxPoint x="2210" y="1370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-175" target="K1q46cgnioQDXiR4tbvy-185">
           <mxGeometry relative="1" as="geometry" />
@@ -126,7 +131,7 @@
           <mxGeometry x="2277" y="1393.5" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-186" value="网络超时处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2562" y="1339" width="156" height="48" as="geometry" />
+          <mxGeometry x="2360" y="1389.5" width="18" height="121" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.446;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-172" target="K1q46cgnioQDXiR4tbvy-176">
           <mxGeometry relative="1" as="geometry" />
