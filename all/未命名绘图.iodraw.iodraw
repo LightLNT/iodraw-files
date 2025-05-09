@@ -44,7 +44,7 @@
           <mxGeometry x="1300" y="234" width="18" height="106" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-830" value="结果处理器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="239" width="18" height="96" as="geometry" />
+          <mxGeometry x="1410" y="234" width="18" height="106" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-832" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-817" target="K1q46cgnioQDXiR4tbvy-819">
           <mxGeometry relative="1" as="geometry">
