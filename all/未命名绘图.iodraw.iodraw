@@ -55,13 +55,6 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-881" value="火焰监控页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2193" y="652" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-888" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.36;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-874" target="K1q46cgnioQDXiR4tbvy-875">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1433" y="503" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-889" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-875" target="K1q46cgnioQDXiR4tbvy-876">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
