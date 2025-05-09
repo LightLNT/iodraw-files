@@ -19,8 +19,11 @@
             <mxPoint x="2170" y="1174.2941176470588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-171" target="K1q46cgnioQDXiR4tbvy-175">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="K1q46cgnioQDXiR4tbvy-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1977.94" y="1209.9988235294118" as="sourcePoint" />
+            <mxPoint x="2600.94" y="1283.94" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-171" target="K1q46cgnioQDXiR4tbvy-172">
           <mxGeometry relative="1" as="geometry">
@@ -105,7 +108,7 @@
           <mxGeometry x="1671.5" y="1396.5" width="19" height="110" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-181" value="帧格式转换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="1410" width="19" height="113" as="geometry" />
+          <mxGeometry x="1760" y="1397" width="19" height="113" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-182" value="连接状态监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1991" y="1347" width="156" height="48" as="geometry" />
@@ -126,9 +129,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=0.064;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-174" target="K1q46cgnioQDXiR4tbvy-183">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-181" target="K1q46cgnioQDXiR4tbvy-181">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
