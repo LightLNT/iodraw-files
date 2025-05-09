@@ -4,18 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="K1q46cgnioQDXiR4tbvy-56" value="展示历史数据和统计分析" style="curved=1;endArrow=block;rounded=0;fontSize=18;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="266" y="1515" />
-              <mxPoint x="266" y="1545" />
-            </Array>
-            <mxPoint x="213.83333333333326" y="1515" as="sourcePoint" />
-            <mxPoint x="213.83333333333326" y="1545" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-107" value="数据库模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="512" y="1570" width="140" height="48" as="geometry" />
+          <mxGeometry x="790" y="1510" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-108" value="连接池管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="140" y="1668" width="140" height="48" as="geometry" />
