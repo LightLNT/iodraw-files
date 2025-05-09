@@ -14,7 +14,7 @@
           <mxGeometry x="490" y="1620" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-110" value="查询功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="703" y="1630" width="124" height="48" as="geometry" />
+          <mxGeometry x="720" y="1610" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-111" value="异常处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1035" y="1668" width="124" height="48" as="geometry" />
@@ -120,11 +120,8 @@
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-132" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="1580" as="sourcePoint" />
-            <mxPoint x="840" y="1520" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="840" y="1550" />
-            </Array>
+            <mxPoint x="929.41" y="1508" as="sourcePoint" />
+            <mxPoint x="929.41" y="1448" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
