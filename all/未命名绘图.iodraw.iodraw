@@ -52,8 +52,8 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-696" value="UI资源管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2438" y="203" width="26" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-717" value="导航与页面切换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1894" y="128" width="146" height="42" as="geometry" />
+        <mxCell id="K1q46cgnioQDXiR4tbvy-717" value="系统集成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2129" y="10" width="146" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
