@@ -10,8 +10,8 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-360" value="置信度过滤" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="518.5" y="110" width="140" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-361" value="坐标转换&#xa;归一化坐标-&amp;gt;原始图像坐标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="460" y="237" width="257" height="84" as="geometry" />
+        <mxCell id="K1q46cgnioQDXiR4tbvy-361" value="坐标转换&#xa;归一化坐标，原始图像坐标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="460" y="180" width="257" height="84" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-362" value="边界框计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="519" y="370" width="140" height="48" as="geometry" />
