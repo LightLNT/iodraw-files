@@ -11,10 +11,10 @@
           <mxGeometry x="1260" y="230" width="142" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-228" value="图像预处理" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="240" width="110" height="48" as="geometry" />
+          <mxGeometry x="1110" y="230" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-229" value="火焰检测算法" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="204" y="1039" width="126" height="48" as="geometry" />
+          <mxGeometry x="701" y="220" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-230" value="后处理与可视化" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="196" y="1432" width="142" height="48" as="geometry" />
