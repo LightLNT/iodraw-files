@@ -44,7 +44,7 @@
           <mxGeometry x="1390" y="329" width="21" height="111" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-541" value="警报状态处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1905" y="334" width="25" height="48" as="geometry" />
+          <mxGeometry x="1450" y="329" width="25" height="111" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
