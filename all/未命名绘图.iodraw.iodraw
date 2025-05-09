@@ -166,8 +166,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-1221" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="110" width="110" height="50" as="geometry" />
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1221" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="140" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
