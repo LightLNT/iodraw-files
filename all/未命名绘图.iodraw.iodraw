@@ -5,19 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="K1q46cgnioQDXiR4tbvy-437" value="主窗口(MainWindow)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="670" y="520" width="209" height="48" as="geometry" />
+          <mxGeometry x="618" y="530" width="209" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-438" value="主分割布局(QSplitter)" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="670" y="600" width="186" height="48" as="geometry" />
+          <mxGeometry x="618" y="650" width="186" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-439" value="左侧导航面板(QFrame)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="250" y="869" width="224" height="48" as="geometry" />
+          <mxGeometry x="460" y="740" width="224" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-440" value="右侧视图容器(QStackedWidget)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="780" y="740" width="256" height="66" as="geometry" />
+          <mxGeometry x="740" y="731" width="256" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-441" value="按钮组(QButtonGroup)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="980" width="222" height="48" as="geometry" />
+          <mxGeometry x="380" y="886" width="222" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-442" value="火焰监控按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="130" y="1090" width="156" height="48" as="geometry" />
