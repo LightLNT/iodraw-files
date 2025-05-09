@@ -29,16 +29,16 @@
           <mxGeometry x="95" y="652" width="108" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-982" value="发送帧信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="122" y="790" width="140" height="48" as="geometry" />
+          <mxGeometry x="128" y="722" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-983" value="增加失败计数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="267" y="700" width="156" height="48" as="geometry" />
+          <mxGeometry x="284" y="710" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-984" value="超过最大失败次数?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="302" y="770" width="183" height="183" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-985" value="尝试重新连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="315.5" y="1010" width="156" height="48" as="geometry" />
+          <mxGeometry x="315.5" y="990" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-986" value="重连成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="430" y="1090" width="119" height="119" as="geometry" />
