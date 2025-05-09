@@ -35,7 +35,7 @@
           <mxGeometry x="900" y="1790" width="17" height="113" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-117" value="定时刷新机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1019" y="1767" width="156" height="48" as="geometry" />
+          <mxGeometry x="1040" y="1790" width="18" height="110" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-118" value="异步查询机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1225" y="1767" width="156" height="48" as="geometry" />
