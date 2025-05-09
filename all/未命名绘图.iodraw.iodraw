@@ -20,13 +20,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-868" value="火灾检测信号&#xa;alert_signal" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="150" width="124" height="51" as="geometry" />
+          <mxGeometry x="1530" y="150" width="124" height="51" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-906" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-869" target="K1q46cgnioQDXiR4tbvy-875">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-869" value="页面切换信号&#xa;button_group.buttonClicked" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="150" width="152" height="49.5" as="geometry" />
+          <mxGeometry x="1670" y="150" width="152" height="49.5" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-902" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-870" target="K1q46cgnioQDXiR4tbvy-874">
           <mxGeometry relative="1" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-875" value="火焰检测模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="290" width="156" height="48" as="geometry" />
+          <mxGeometry x="1560" y="290" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-876" value="告警信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1636" y="370" width="124" height="48" as="geometry" />
