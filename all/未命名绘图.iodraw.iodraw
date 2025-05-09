@@ -64,7 +64,7 @@
           <mxGeometry x="1401" y="860" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-446" value="传感器监控页面(SensorDashboard)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="860" width="258" height="66" as="geometry" />
+          <mxGeometry x="1120" y="860" width="190" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-447" value="历史数据页面(HistoryDataPage)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="850" y="860" width="254" height="66" as="geometry" />
