@@ -23,7 +23,7 @@
           <mxGeometry x="1270" y="1610" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-113" value="实时数据查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="690" y="1810" width="20" height="110" as="geometry" />
+          <mxGeometry x="710" y="1790" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-114" value="日期范围查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="770" y="1790" width="20" height="113" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="830" y="1790" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-116" value="数据导出功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="921.5" y="1790" width="17" height="113" as="geometry" />
+          <mxGeometry x="900" y="1790" width="17" height="113" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-117" value="定时刷新机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1019" y="1767" width="156" height="48" as="geometry" />
@@ -102,6 +102,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1280" y="1610" as="sourcePoint" />
             <mxPoint x="1280" y="1550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-140" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="1760" as="sourcePoint" />
+            <mxPoint x="840" y="1710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
