@@ -37,9 +37,6 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-1185" value="处理UI事件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1019" y="773" width="139" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-1187" value="火灾警报触发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="630" y="642" width="156" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1188" value="错误发生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="836" y="642" width="124" height="48" as="geometry" />
         </mxCell>
@@ -114,6 +111,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1218" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="K1q46cgnioQDXiR4tbvy-1203">
+          <mxGeometry x="-0.0308" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1204" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.64;entryX=0;entryY=0.03;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1181" target="K1q46cgnioQDXiR4tbvy-1184">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -125,13 +127,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="985" y="748" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-1207" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=1.02;entryX=0.88;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1187" target="K1q46cgnioQDXiR4tbvy-1183">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="597" y="748" />
             </Array>
           </mxGeometry>
         </mxCell>
