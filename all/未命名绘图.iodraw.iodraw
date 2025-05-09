@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-685" value="导航与页面切换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1884" y="118" width="146" height="42" as="geometry" />
+          <mxGeometry x="1960" y="118" width="146" height="42" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-686" value="页面管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1874" y="206" width="30" height="82" as="geometry" />
