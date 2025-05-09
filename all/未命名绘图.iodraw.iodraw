@@ -14,7 +14,7 @@
           <mxGeometry x="70" y="109" width="10" height="151" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-23" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="K1q46cgnioQDXiR4tbvy-21">
-          <mxGeometry x="70" y="433" width="10" height="496" as="geometry" />
+          <mxGeometry x="70" y="352" width="10" height="496" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-24" value="数据库模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="602" y="350" width="150" height="1150" as="geometry" />
