@@ -14,25 +14,25 @@
           <mxGeometry x="1110" y="230" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-229" value="火焰检测算法" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="701" y="220" width="126" height="48" as="geometry" />
+          <mxGeometry x="810" y="230" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-230" value="后处理与可视化" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="196" y="1432" width="142" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-231" value="ONNX模型加载" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="390" width="134" height="48" as="geometry" />
+          <mxGeometry x="1390" y="390" width="134" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-232" value="会话创建与优化" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="390" width="142" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-233" value="模型元数据获取" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="390" width="142" height="48" as="geometry" />
+          <mxGeometry x="1241" y="390" width="142" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-234" value="图像缩放" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="390" width="94" height="48" as="geometry" />
+          <mxGeometry x="1118" y="370" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-236" value="归一化处理" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="380" width="110" height="48" as="geometry" />
+          <mxGeometry x="950" y="370" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-237" value="通道转换" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="412" y="940" width="94" height="48" as="geometry" />
@@ -92,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-235" value="色彩空间转换" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="902" y="380" width="126" height="48" as="geometry" />
+          <mxGeometry x="1020" y="370" width="126" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
