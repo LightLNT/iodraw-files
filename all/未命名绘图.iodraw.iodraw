@@ -39,6 +39,10 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.444;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-173" target="K1q46cgnioQDXiR4tbvy-179">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1490" y="1272" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1681" y="1310" />
+              <mxPoint x="1483" y="1310" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-173" target="K1q46cgnioQDXiR4tbvy-180">
@@ -99,13 +103,6 @@
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-186" value="网络超时处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2815" y="1347" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-199" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.94;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-175" target="K1q46cgnioQDXiR4tbvy-184">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2481" y="1322" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-200" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-175" target="K1q46cgnioQDXiR4tbvy-185">
           <mxGeometry relative="1" as="geometry">
