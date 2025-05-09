@@ -28,6 +28,11 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-1077" value="生成风险评估结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="135" y="735" width="188" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1078">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="294.0769230769231" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1078" value="发送风险信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="216" y="834" width="156" height="48" as="geometry" />
         </mxCell>
