@@ -4,9 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="K1q46cgnioQDXiR4tbvy-202" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-171">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-171">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1680" y="1170" as="targetPoint" />
+            <mxPoint x="1680" y="1174.2941176470588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-171" value="视频流处理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
