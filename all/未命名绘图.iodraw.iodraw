@@ -11,7 +11,7 @@
           <mxGeometry x="518.5" y="110" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-361" value="坐标转换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="460" y="180" width="257" height="84" as="geometry" />
+          <mxGeometry x="520" y="180" width="197" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-362" value="边界框计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="519" y="370" width="140" height="48" as="geometry" />
