@@ -23,7 +23,7 @@
           <mxGeometry x="279" y="350" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-980" value="捕获帧" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="96" y="614" width="96" height="96" as="geometry" />
+          <mxGeometry x="141" y="590" width="96" height="96" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-981" value="处理帧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="90" y="783" width="108" height="48" as="geometry" />
@@ -82,7 +82,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-994" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.84;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-978" target="K1q46cgnioQDXiR4tbvy-980">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-994" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.84;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-978" target="K1q46cgnioQDXiR4tbvy-980">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="144" y="589" />
