@@ -29,7 +29,7 @@
           <mxGeometry x="870" y="470" width="102" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-479" value="eCO2卡片" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1083" y="487" width="99" height="48" as="geometry" />
+          <mxGeometry x="1020" y="470" width="99" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-480" value="参数趋势图表" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1374" y="487" width="126" height="48" as="geometry" />
@@ -38,10 +38,10 @@
           <mxGeometry x="1550" y="487" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-482" value="当前值显示" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="90" y="585" width="110" height="48" as="geometry" />
+          <mxGeometry x="290" y="585" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-483" value="单位标识" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="250" y="585" width="94" height="48" as="geometry" />
+          <mxGeometry x="414" y="580" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-484" value="状态指示" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="520" y="585" width="94" height="48" as="geometry" />
