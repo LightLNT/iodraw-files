@@ -14,7 +14,7 @@
           <mxGeometry x="23" y="239" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1040" value="预处理帧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="430" width="124" height="48" as="geometry" />
+          <mxGeometry x="18" y="390" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1041" value="执行ONNX模型推理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="32" y="529" width="196" height="48" as="geometry" />
