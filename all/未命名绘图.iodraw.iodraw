@@ -75,7 +75,7 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-174" target="K1q46cgnioQDXiR4tbvy-183">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-174" target="K1q46cgnioQDXiR4tbvy-182">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-174" target="K1q46cgnioQDXiR4tbvy-182">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-174" value="连接状态管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -90,8 +90,8 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-175" target="K1q46cgnioQDXiR4tbvy-186">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2616" y="1320" />
-              <mxPoint x="2893" y="1320" />
+              <mxPoint x="2363" y="1312" />
+              <mxPoint x="2640" y="1312" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -120,13 +120,13 @@
           <mxGeometry x="2110" y="1391.5" width="23" height="113" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-184" value="连接中断恢复" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2403" y="1347" width="156" height="48" as="geometry" />
+          <mxGeometry x="2150" y="1339" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-185" value="解码错误处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2609" y="1347" width="156" height="48" as="geometry" />
+          <mxGeometry x="2356" y="1339" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-186" value="网络超时处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2815" y="1347" width="156" height="48" as="geometry" />
+          <mxGeometry x="2562" y="1339" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.446;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-172" target="K1q46cgnioQDXiR4tbvy-176">
           <mxGeometry relative="1" as="geometry" />
@@ -138,7 +138,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-175" value="异常处理与恢复" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2530" y="1248" width="172" height="48" as="geometry" />
+          <mxGeometry x="2277" y="1240" width="103" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
