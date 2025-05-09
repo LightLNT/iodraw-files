@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-153" value="异常数据警报与记录模块" style="whiteSpace=wrap;strokeWidth=2;direction=east;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="1159" y="1790" width="236" height="48" as="geometry" />
+          <mxGeometry x="1159" y="1780" width="236" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-154" target="K1q46cgnioQDXiR4tbvy-167">
           <mxGeometry relative="1" as="geometry" />
