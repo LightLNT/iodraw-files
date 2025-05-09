@@ -166,8 +166,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1221" target="K1q46cgnioQDXiR4tbvy-1175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1221" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="140" width="110" height="50" as="geometry" />
+          <mxGeometry x="328" y="150" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1224" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="930" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
