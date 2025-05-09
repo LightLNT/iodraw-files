@@ -8,7 +8,7 @@
           <mxGeometry x="920" y="70" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-227" value="模型加载与管理" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1146" y="150" width="20" height="110" as="geometry" />
+          <mxGeometry x="1155" y="150" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-228" value="图像预处理" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1040" y="150" width="20" height="110" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="820" y="150" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-231" value="ONNX模型加载" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="260" width="20" height="110" as="geometry" />
+          <mxGeometry x="1390" y="260" width="40" height="110" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-232" value="会话创建与优化" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1330" y="260" width="20" height="110" as="geometry" />
