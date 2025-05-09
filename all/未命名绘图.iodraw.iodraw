@@ -26,10 +26,10 @@
           <mxGeometry x="133" y="580" width="96" height="96" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-981" value="处理帧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="90" y="783" width="108" height="48" as="geometry" />
+          <mxGeometry x="90" y="710" width="108" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-982" value="发送帧信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="119" y="971" width="140" height="48" as="geometry" />
+          <mxGeometry x="122" y="790" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-983" value="增加失败计数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="267" y="700" width="156" height="48" as="geometry" />
@@ -101,10 +101,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-997" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-980" target="K1q46cgnioQDXiR4tbvy-983">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-997" value="失败" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-980" target="K1q46cgnioQDXiR4tbvy-983">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="351" y="747" />
+              <mxPoint x="310" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
