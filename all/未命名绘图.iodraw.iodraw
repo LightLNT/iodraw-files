@@ -111,14 +111,14 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-44" value="查询最新传感器数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-23" target="K1q46cgnioQDXiR4tbvy-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="837" />
+              <mxPoint x="570" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-45" value="返回传感器数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-26" target="K1q46cgnioQDXiR4tbvy-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="581" y="891" />
+              <mxPoint x="590" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
