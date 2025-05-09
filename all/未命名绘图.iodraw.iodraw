@@ -9,6 +9,9 @@
             <mxPoint x="993.3333333333335" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-226" target="K1q46cgnioQDXiR4tbvy-229">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-226" value="火焰检测模块" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="930" y="50" width="126" height="30" as="geometry" />
         </mxCell>
