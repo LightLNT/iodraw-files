@@ -4,26 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="K1q46cgnioQDXiR4tbvy-113" value="实时数据查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="710" y="1790" width="20" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-114" value="日期范围查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="770" y="1790" width="20" height="113" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-115" value="统计数据查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="830" y="1790" width="20" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-116" value="数据导出功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1790" width="17" height="113" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-117" value="定时刷新机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="1790" width="18" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-147" value="用户界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1880" y="1920" width="174" height="217" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-148" value="数据处理层模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="654" y="1925" width="1176" height="196" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-149" value="数据源(PostgreSQL Database)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="410" y="1995" width="194" height="66" as="geometry" />
