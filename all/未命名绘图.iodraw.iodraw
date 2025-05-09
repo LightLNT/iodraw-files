@@ -34,7 +34,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-172" value="多源视频连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="999" y="1248" width="21" height="42" as="geometry" />
+          <mxGeometry x="999" y="1248" width="21" height="92" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.444;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-173" target="K1q46cgnioQDXiR4tbvy-179">
           <mxGeometry relative="1" as="geometry">
@@ -84,7 +84,7 @@
           <mxGeometry x="810" y="1347" width="146" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-177" value="RTSP流连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1006" y="1347" width="143" height="48" as="geometry" />
+          <mxGeometry x="1006" y="1390" width="24" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-178" value="本地摄像头连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1199" y="1347" width="172" height="48" as="geometry" />
