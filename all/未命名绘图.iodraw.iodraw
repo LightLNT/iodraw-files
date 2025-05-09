@@ -55,12 +55,12 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-1151" value="警报处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="559" y="512" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-1152" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1135" target="K1q46cgnioQDXiR4tbvy-1136">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1152" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.7;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1135">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="100" y="54" />
-              <mxPoint x="109" y="90" />
             </Array>
+            <mxPoint x="100" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1153" value="" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1135" target="K1q46cgnioQDXiR4tbvy-1137">
