@@ -20,10 +20,10 @@
           <mxGeometry x="911" y="178" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-379" value="加载预训练模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="200" y="350" width="20" height="66" as="geometry" />
+          <mxGeometry x="200" y="328" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-380" value="模型初始化检查&#xa;异常处理&#xa;机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="328" y="350" width="256" height="66" as="geometry" />
+          <mxGeometry x="328" y="350" width="122" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-381" value="风险预测实现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="634" y="334" width="156" height="48" as="geometry" />
@@ -57,13 +57,6 @@
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-391" value="获取最佳参数&#xa;&#xa;best_params" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1250" y="723" width="256" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-395" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-377" target="K1q46cgnioQDXiR4tbvy-380">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="456" y="252" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-396" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-378" target="K1q46cgnioQDXiR4tbvy-381">
           <mxGeometry relative="1" as="geometry">
