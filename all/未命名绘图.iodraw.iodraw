@@ -11,7 +11,7 @@
           <mxGeometry x="387" y="350" width="150" height="1300" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-22" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="K1q46cgnioQDXiR4tbvy-21">
-          <mxGeometry x="70" y="109" width="10" height="280" as="geometry" />
+          <mxGeometry x="70" y="109" width="10" height="151" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-23" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="K1q46cgnioQDXiR4tbvy-21">
           <mxGeometry x="70" y="433" width="10" height="496" as="geometry" />
@@ -91,10 +91,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-42" value="连接成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-22" target="K1q46cgnioQDXiR4tbvy-20">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-1" y="-114" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="348" y="729" />
             </Array>
+            <mxPoint x="2" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-43" value="请求传感器数据和视频流" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-20" target="K1q46cgnioQDXiR4tbvy-23">
