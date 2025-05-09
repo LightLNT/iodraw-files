@@ -32,10 +32,10 @@
           <mxGeometry x="870" y="334" width="129" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-537" value="温湿度趋势图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1085" y="334" width="25" height="106" as="geometry" />
+          <mxGeometry x="1210" y="334" width="25" height="106" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-538" value="气体浓度趋势图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1255" y="334" width="172" height="48" as="geometry" />
+          <mxGeometry x="1290" y="334" width="25" height="106" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-539" value="数据更新定时器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1477" y="334" width="172" height="48" as="geometry" />
