@@ -20,7 +20,7 @@
           <mxGeometry x="1159" y="1730" width="236" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-153" value="异常数据警报与记录模块" style="whiteSpace=wrap;strokeWidth=2;direction=east;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="2059" y="1679" width="236" height="48" as="geometry" />
+          <mxGeometry x="1159" y="1820" width="236" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-154" value="运行界面" style="whiteSpace=wrap;strokeWidth=2;direction=east;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="1905" y="1955" width="124" height="48" as="geometry" />
@@ -43,9 +43,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-159" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-152" target="K1q46cgnioQDXiR4tbvy-153">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-159" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="K1q46cgnioQDXiR4tbvy-153">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1277" y="1780" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-160" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=0;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-153" target="K1q46cgnioQDXiR4tbvy-154">
