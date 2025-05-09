@@ -32,7 +32,7 @@
           <mxGeometry x="100" y="700" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-984" value="超过最大失败次数?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="203" y="807" width="183" height="183" as="geometry" />
+          <mxGeometry x="181.5" y="760" width="183" height="183" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-985" value="尝试重新连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="295" y="1030" width="156" height="48" as="geometry" />
@@ -103,9 +103,7 @@
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-998" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.673;entryY=0.169;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-983" target="K1q46cgnioQDXiR4tbvy-984">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="351" y="780" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-999" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-984" target="K1q46cgnioQDXiR4tbvy-985">
@@ -160,7 +158,7 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-1010" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="423" y="1250" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-1011" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.72;exitY=0;entryX=0.67;entryY=1.01;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-984" target="K1q46cgnioQDXiR4tbvy-983">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1011" value="" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0;entryX=0.67;entryY=1.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-984" target="K1q46cgnioQDXiR4tbvy-983">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="322" y="835" as="sourcePoint" />
