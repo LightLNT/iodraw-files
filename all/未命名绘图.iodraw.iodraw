@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="K1q46cgnioQDXiR4tbvy-1175" value="初始化应用程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="298" y="20" width="172" height="48" as="geometry" />
+          <mxGeometry x="298" y="220" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1176" value="加载配置文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="306" y="280" width="156" height="48" as="geometry" />
@@ -165,6 +165,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1221" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="110" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
