@@ -11,10 +11,10 @@
           <mxGeometry x="150" y="80" width="20" height="92" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1264" value="多线程查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="231" y="80" width="20" height="112" as="geometry" />
+          <mxGeometry x="414" y="76" width="20" height="112" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1265" value="查询功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="392" y="80" width="20" height="48" as="geometry" />
+          <mxGeometry x="520" y="76" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1266" value="异常处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="915" y="118" width="124" height="48" as="geometry" />
@@ -26,10 +26,10 @@
           <mxGeometry x="75" y="217" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1269" value="日期范围查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="281" y="217" width="156" height="48" as="geometry" />
+          <mxGeometry x="278" y="265" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1270" value="统计数据查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="487" y="217" width="156" height="48" as="geometry" />
+          <mxGeometry x="500" y="290" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1271" value="数据导出功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="693" y="217" width="156" height="48" as="geometry" />
