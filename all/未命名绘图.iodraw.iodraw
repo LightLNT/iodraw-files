@@ -53,7 +53,7 @@
           <mxGeometry x="70" y="325" width="10" height="64" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-36" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="K1q46cgnioQDXiR4tbvy-34">
-          <mxGeometry x="70" y="811" width="10" height="54" as="geometry" />
+          <mxGeometry x="70" y="630" width="10" height="54" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-37" value="启动" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-20" target="K1q46cgnioQDXiR4tbvy-22">
           <mxGeometry relative="1" as="geometry">
@@ -159,10 +159,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-50" value="火焰检测结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-33" target="K1q46cgnioQDXiR4tbvy-36">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0183" y="11" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1188" y="1161" />
+              <mxPoint x="1170" y="1040" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-51" value="风险评估结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-36" target="K1q46cgnioQDXiR4tbvy-23">
