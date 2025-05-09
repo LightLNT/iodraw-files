@@ -32,7 +32,7 @@
           <mxGeometry x="302" y="448" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-236" value="归一化处理" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="404" y="842" width="110" height="48" as="geometry" />
+          <mxGeometry x="50" y="448" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-237" value="通道转换" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="412" y="940" width="94" height="48" as="geometry" />
@@ -57,13 +57,6 @@
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-244" value="结果可视化" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="404" y="1629" width="110" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-245" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.54;exitY=0;entryX=0;entryY=0.51;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-226" target="K1q46cgnioQDXiR4tbvy-227">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="113.04000000000042" y="473" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-246" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=0;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-235" target="K1q46cgnioQDXiR4tbvy-228">
           <mxGeometry relative="1" as="geometry">
@@ -174,13 +167,6 @@
             <Array as="points">
               <mxPoint x="318.9230769230767" y="1653" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-263" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=0;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-226" target="K1q46cgnioQDXiR4tbvy-235">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="363" y="230" as="sourcePoint" />
-            <mxPoint x="260" y="384" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-235" value="色彩空间转换" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
