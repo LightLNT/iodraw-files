@@ -81,10 +81,10 @@
           <mxGeometry x="2601" y="1248" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-176" value="HTTP流连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1347" width="146" height="48" as="geometry" />
+          <mxGeometry x="810" y="1347" width="20" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-177" value="RTSP流连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1006" y="1390" width="24" height="48" as="geometry" />
+          <mxGeometry x="1006" y="1390" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-178" value="本地摄像头连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1199" y="1347" width="172" height="48" as="geometry" />
