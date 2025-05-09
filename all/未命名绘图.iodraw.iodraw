@@ -26,7 +26,7 @@
           <mxGeometry x="514" y="334" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-535" value="TVOC卡片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="688" y="334" width="42" height="48" as="geometry" />
+          <mxGeometry x="1037" y="331" width="42" height="116" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-536" value="eCO2卡片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1109" y="334" width="35" height="110" as="geometry" />
