@@ -32,16 +32,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1240" value="连接中断检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="108" y="160" width="156" height="48" as="geometry" />
+          <mxGeometry x="698" y="150" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1241" value="资源释放&#xa;释放旧连接资源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="283" width="172" height="66" as="geometry" />
+          <mxGeometry x="690" y="273" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1242" value="编解码器尝试&#xa;多编解码器轮询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="424" width="172" height="66" as="geometry" />
+          <mxGeometry x="690" y="414" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1243" value="重启连接线程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="108" y="565" width="156" height="48" as="geometry" />
+          <mxGeometry x="698" y="555" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1244" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1240" target="K1q46cgnioQDXiR4tbvy-1241">
           <mxGeometry relative="1" as="geometry">
@@ -59,13 +59,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1248" value="主模型加载尝试" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="200" width="172" height="48" as="geometry" />
+          <mxGeometry x="1110" y="150" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1249" value="备用模型加载" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1218" y="345" width="156" height="48" as="geometry" />
+          <mxGeometry x="1118" y="295" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1250" value="基本阈值策略&#xa;完全降级方案" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1218" y="491" width="156" height="66" as="geometry" />
+          <mxGeometry x="1118" y="441" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1251" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1248" target="K1q46cgnioQDXiR4tbvy-1249">
           <mxGeometry relative="1" as="geometry">
