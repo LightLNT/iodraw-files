@@ -11,13 +11,13 @@
           <mxGeometry x="209" y="118" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-976" value="连接本地摄像头" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="95" y="418" width="172" height="48" as="geometry" />
+          <mxGeometry x="95" y="320" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-977" value="根据协议选择连接策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="279" y="280" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-978" value="进入帧获取循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="313" y="466" width="172" height="48" as="geometry" />
+          <mxGeometry x="268" y="450" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-979" value="建立视频流连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="279" y="350" width="172" height="48" as="geometry" />
@@ -132,8 +132,8 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-1002" value="是" style="curved=0;startArrow=none;endArrow=block;exitX=0.69;exitY=0;entryX=0.9;entryY=1.01;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-986" target="K1q46cgnioQDXiR4tbvy-978">
           <mxGeometry x="-0.0598" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="542" y="1233" />
-              <mxPoint x="542" y="589" />
+              <mxPoint x="500" y="1020" />
+              <mxPoint x="480" y="590" />
             </Array>
             <mxPoint y="1" as="offset" />
           </mxGeometry>
