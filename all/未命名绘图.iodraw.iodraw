@@ -81,13 +81,8 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-695" value="线程资源管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2386" y="203" width="32" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-731" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-696">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2451" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-696" value="UI资源管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2438" y="203" width="26" height="72" as="geometry" />
+          <mxGeometry x="2438" y="203" width="26" height="77" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-718" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-717" target="K1q46cgnioQDXiR4tbvy-685">
           <mxGeometry relative="1" as="geometry" />
