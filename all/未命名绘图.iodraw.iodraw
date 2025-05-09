@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="K1q46cgnioQDXiR4tbvy-326" value="PyTorch&#xa;YOLOv5模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="360" y="395" width="217" height="48" as="geometry" />
+          <mxGeometry x="817" y="200" width="217" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-327" value="转换" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="627" y="395" width="62" height="48" as="geometry" />
@@ -24,11 +24,6 @@
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-332" value="执行推理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1714" y="395" width="124" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-338" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-326" target="K1q46cgnioQDXiR4tbvy-327">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-339" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-327" target="K1q46cgnioQDXiR4tbvy-328">
           <mxGeometry relative="1" as="geometry">
