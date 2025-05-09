@@ -11,7 +11,7 @@
           <mxGeometry x="618" y="650" width="186" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-439" value="左侧导航面板(QFrame)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="460" y="740" width="224" height="48" as="geometry" />
+          <mxGeometry x="460" y="731" width="224" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-440" value="右侧视图容器(QStackedWidget)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="740" y="731" width="256" height="66" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="560" y="1000" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-445" value="火焰监控页面(FireMonitorPage)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="740" width="253" height="66" as="geometry" />
+          <mxGeometry x="1270" y="850" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-446" value="传感器监控页面(SensorDashboard)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1000" y="850" width="258" height="66" as="geometry" />
