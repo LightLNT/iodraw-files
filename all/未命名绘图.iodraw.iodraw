@@ -120,7 +120,7 @@
           <mxGeometry x="2110" y="1391.5" width="23" height="113" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-184" value="连接中断恢复" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2150" y="1339" width="156" height="48" as="geometry" />
+          <mxGeometry x="2170" y="1410" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-185" value="解码错误处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2356" y="1339" width="156" height="48" as="geometry" />
@@ -138,7 +138,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-175" value="异常处理与恢复" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2277" y="1240" width="103" height="48" as="geometry" />
+          <mxGeometry x="2277" y="1240" width="23" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
