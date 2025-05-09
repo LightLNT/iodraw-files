@@ -123,7 +123,7 @@
           <mxGeometry x="2200" y="1391.5" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-185" value="解码错误处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2260" y="1410" width="20" height="48" as="geometry" />
+          <mxGeometry x="2277" y="1393.5" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-186" value="网络超时处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2562" y="1339" width="156" height="48" as="geometry" />
