@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="K1q46cgnioQDXiR4tbvy-107" value="数据库模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="829" y="1380" width="140" height="48" as="geometry" />
+          <mxGeometry x="860" y="1400" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-108" value="连接池管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="1620" width="140" height="48" as="geometry" />
@@ -55,11 +55,6 @@
             <Array as="points">
               <mxPoint x="400" y="1643" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-122" value="" style="curved=0;startArrow=none;endArrow=none;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;endFill=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-107" target="K1q46cgnioQDXiR4tbvy-110">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-123" value="" style="curved=0;startArrow=none;endArrow=none;exitX=1;exitY=0.64;entryX=0.5;entryY=0.01;rounded=0;endFill=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-107" target="K1q46cgnioQDXiR4tbvy-111">
