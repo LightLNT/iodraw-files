@@ -13,32 +13,6 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-425" value="特征交互设计&#xa;捕捉参数间&#xa;相互作用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1025" y="198" width="256" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-432" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-423" target="K1q46cgnioQDXiR4tbvy-424">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-433" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-424" target="K1q46cgnioQDXiR4tbvy-425">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-434" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=0;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-425">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1306" y="178" />
-            </Array>
-            <mxPoint x="1392" y="177.48000000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-435" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-425">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1306" y="285" />
-            </Array>
-            <mxPoint x="1381" y="285" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
