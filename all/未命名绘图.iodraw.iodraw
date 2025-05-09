@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-568" value="数据表格" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2010" y="150" width="124" height="40" as="geometry" />
+          <mxGeometry x="2010" y="150" width="124" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-570" value="数据库连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2260" y="150" width="140" height="30" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="2150" y="250" width="19" height="100" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-582" value="查询执行器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2470" y="248" width="140" height="48" as="geometry" />
+          <mxGeometry x="2220" y="248" width="20" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-583" value="结果处理器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2700" y="248" width="140" height="48" as="geometry" />
@@ -74,20 +74,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2907" y="111" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-599" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-570" target="K1q46cgnioQDXiR4tbvy-582">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2700" y="223" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-600" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-570" target="K1q46cgnioQDXiR4tbvy-583">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2890" y="223" />
             </Array>
           </mxGeometry>
         </mxCell>
