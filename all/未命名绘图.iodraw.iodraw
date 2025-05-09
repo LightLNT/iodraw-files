@@ -53,7 +53,7 @@
           <mxGeometry x="70" y="325" width="10" height="64" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-36" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" vertex="1" parent="K1q46cgnioQDXiR4tbvy-34">
-          <mxGeometry x="70" y="630" width="10" height="100" as="geometry" />
+          <mxGeometry x="70" y="680" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-37" value="启动" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-20" target="K1q46cgnioQDXiR4tbvy-22">
           <mxGeometry relative="1" as="geometry">
@@ -166,11 +166,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-51" value="风险评估结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-36" target="K1q46cgnioQDXiR4tbvy-23">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-51" value="风险评估结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="890" y="1070" />
+              <mxPoint x="890" y="1120" />
             </Array>
+            <mxPoint x="1272" y="1120" as="sourcePoint" />
+            <mxPoint x="467" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-52" value="更新显示和警报状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-23" target="K1q46cgnioQDXiR4tbvy-20">
