@@ -23,7 +23,7 @@
           <mxGeometry x="1200" y="350" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-875" value="火焰检测模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1886" y="528" width="156" height="48" as="geometry" />
+          <mxGeometry x="1780" y="360" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-876" value="告警信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1730" y="652" width="124" height="48" as="geometry" />
@@ -43,7 +43,7 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-881" value="火焰监控页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2193" y="652" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-882" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.19;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-866" target="K1q46cgnioQDXiR4tbvy-874">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-882" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.19;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-866" target="K1q46cgnioQDXiR4tbvy-874">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1052" y="392" />
