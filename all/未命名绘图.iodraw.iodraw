@@ -37,9 +37,6 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-1185" value="处理UI事件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1019" y="773" width="139" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-1189" value="用户界面交互" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="642" width="156" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1190" value="更新数据显示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="28" y="871" width="156" height="48" as="geometry" />
         </mxCell>
@@ -118,7 +115,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-1219" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="K1q46cgnioQDXiR4tbvy-1204">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1219" value="错误发生" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="K1q46cgnioQDXiR4tbvy-1204">
           <mxGeometry x="0.0087" y="4" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -130,9 +127,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-1209" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1189" target="K1q46cgnioQDXiR4tbvy-1185">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1220" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="K1q46cgnioQDXiR4tbvy-1205">
+          <mxGeometry x="0.1608" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1210" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1182" target="K1q46cgnioQDXiR4tbvy-1190">
