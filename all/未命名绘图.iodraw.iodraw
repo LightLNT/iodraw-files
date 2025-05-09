@@ -37,9 +37,6 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-1185" value="处理UI事件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1019" y="773" width="139" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-1186" value="传感器数据更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="642" width="172" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1187" value="火灾警报触发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="630" y="642" width="156" height="48" as="geometry" />
         </mxCell>
@@ -100,8 +97,14 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-1202" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.47;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1181" target="K1q46cgnioQDXiR4tbvy-1182">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="210" y="720" />
               <mxPoint x="96" y="748" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1216" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;传感器数据更新&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="K1q46cgnioQDXiR4tbvy-1202">
+          <mxGeometry x="-0.224" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1203" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.21;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1181" target="K1q46cgnioQDXiR4tbvy-1183">
@@ -122,13 +125,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="985" y="748" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-1206" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=1.02;entryX=0.77;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1186" target="K1q46cgnioQDXiR4tbvy-1182">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="192" y="748" />
             </Array>
           </mxGeometry>
         </mxCell>
