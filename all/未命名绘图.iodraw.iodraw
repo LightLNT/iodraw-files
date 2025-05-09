@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="K1q46cgnioQDXiR4tbvy-107" value="数据库模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="790" y="1500" width="140" height="48" as="geometry" />
+          <mxGeometry x="827" y="1480" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-108" value="连接池管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="140" y="1668" width="140" height="48" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="330" y="1668" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-110" value="查询功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1668" width="124" height="48" as="geometry" />
+          <mxGeometry x="703" y="1630" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-111" value="异常处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1035" y="1668" width="124" height="48" as="geometry" />
