@@ -17,7 +17,7 @@
           <mxGeometry x="1100" y="118" width="26" height="92" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-685" value="导航与页面切换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1874" y="108" width="172" height="48" as="geometry" />
+          <mxGeometry x="1884" y="118" width="146" height="42" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-686" value="页面管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1874" y="206" width="30" height="82" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="2000" y="206" width="30" height="82" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-689" value="模块通信" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2164" y="110" width="124" height="48" as="geometry" />
+          <mxGeometry x="2140" y="118" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-690" value="信号槽连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2140" y="208" width="30" height="72" as="geometry" />
