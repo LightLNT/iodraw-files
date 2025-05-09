@@ -32,10 +32,10 @@
           <mxGeometry x="890" y="220" width="24" height="106" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-826" value="表格视图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="970" y="234" width="124" height="48" as="geometry" />
+          <mxGeometry x="972" y="220" width="20" height="106" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-827" value="排序过滤" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1144" y="234" width="124" height="48" as="geometry" />
+          <mxGeometry x="1144" y="234" width="26" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-828" value="分页控件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1318" y="234" width="124" height="48" as="geometry" />
