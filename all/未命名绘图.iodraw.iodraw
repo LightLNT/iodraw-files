@@ -169,7 +169,7 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-51" value="风险评估结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-36" target="K1q46cgnioQDXiR4tbvy-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="881" y="1215" />
+              <mxPoint x="890" y="1070" />
             </Array>
           </mxGeometry>
         </mxCell>
