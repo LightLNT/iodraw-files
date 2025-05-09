@@ -67,7 +67,12 @@
           <mxGeometry x="890" y="90" width="20" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1298" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1267" target="K1q46cgnioQDXiR4tbvy-1273">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1061" y="203" />
+              <mxPoint x="1020" y="203" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1267" target="K1q46cgnioQDXiR4tbvy-1274">
           <mxGeometry relative="1" as="geometry">
@@ -96,7 +101,7 @@
           <mxGeometry x="887" y="217" width="23" height="93" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1273" value="异步查询机制" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="217" width="20" height="100" as="geometry" />
+          <mxGeometry x="1010" y="223" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1274" value="信号通知机制" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1090" y="220" width="19" height="103" as="geometry" />
