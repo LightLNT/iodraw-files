@@ -41,7 +41,7 @@
           <mxGeometry x="750" y="370" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-239" value="结果解析" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="710" y="370" width="94" height="48" as="geometry" />
+          <mxGeometry x="876" y="281" width="24" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-241" value="边界框坐标转换" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="678" y="250" width="22" height="110" as="geometry" />
