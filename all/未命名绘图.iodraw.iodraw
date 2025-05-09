@@ -175,11 +175,9 @@
             <mxPoint x="467" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-52" value="更新显示和警报状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-23" target="K1q46cgnioQDXiR4tbvy-20">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-52" value="更新显示和警报状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-68" target="K1q46cgnioQDXiR4tbvy-20">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="348" y="1269" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-53" value="发送历史数据查询请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-20" target="K1q46cgnioQDXiR4tbvy-27">
@@ -240,8 +238,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-69" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=18;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-23" target="K1q46cgnioQDXiR4tbvy-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="348" y="1269" />
+            </Array>
+            <mxPoint x="462" y="1198" as="sourcePoint" />
+            <mxPoint x="214" y="1269" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-68" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="1220" width="10" height="54" as="geometry" />
+          <mxGeometry x="442" y="1220" width="40" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
