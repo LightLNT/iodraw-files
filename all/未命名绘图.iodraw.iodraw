@@ -72,6 +72,9 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-458" value="警报管理按钮" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="684" y="940" width="156" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-471" value="火焰监控页面(FireMonitorPage)" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="860" width="253" height="66" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
