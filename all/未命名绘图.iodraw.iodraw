@@ -14,13 +14,13 @@
           <mxGeometry x="460" y="731" width="224" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-440" value="右侧视图容器(QStackedWidget)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="740" y="731" width="256" height="66" as="geometry" />
+          <mxGeometry x="890" y="722" width="256" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-441" value="按钮组(QButtonGroup)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="886" width="222" height="48" as="geometry" />
+          <mxGeometry x="350" y="850" width="222" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-442" value="火焰监控按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1000" width="156" height="48" as="geometry" />
+          <mxGeometry x="150" y="940" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-443" value="传感器监控按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="340" y="996" width="172" height="48" as="geometry" />
@@ -29,13 +29,13 @@
           <mxGeometry x="560" y="1000" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-445" value="火焰监控页面(FireMonitorPage)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="850" width="253" height="66" as="geometry" />
+          <mxGeometry x="1310" y="850" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-446" value="传感器监控页面(SensorDashboard)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="850" width="258" height="66" as="geometry" />
+          <mxGeometry x="1040" y="850" width="258" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-447" value="历史数据页面(HistoryDataPage)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="716" y="868" width="254" height="66" as="geometry" />
+          <mxGeometry x="740" y="850" width="254" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-451" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-439" target="K1q46cgnioQDXiR4tbvy-441">
           <mxGeometry relative="1" as="geometry">
