@@ -38,7 +38,7 @@
           <mxGeometry x="2010" y="150" width="124" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-570" value="数据库连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2540" y="130" width="140" height="48" as="geometry" />
+          <mxGeometry x="2260" y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-571" value="日期范围选择器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1770" y="238" width="20" height="112" as="geometry" />
