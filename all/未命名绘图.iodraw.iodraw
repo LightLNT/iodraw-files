@@ -20,6 +20,10 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-171" target="K1q46cgnioQDXiR4tbvy-172">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1070" y="1174" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1978" y="1210" />
+              <mxPoint x="1344" y="1210" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-171" value="视频流处理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -53,9 +57,7 @@
             <mxPoint x="1880" y="1272" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1681" y="1310" />
-              <mxPoint x="1871" y="1310" />
-              <mxPoint x="1871" y="1370" />
-              <mxPoint x="1870" y="1370" />
+              <mxPoint x="1770" y="1310" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -97,13 +99,8 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-180" value="帧缓冲管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1671.5" y="1370" width="19" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-181">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1820" y="1410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-181" value="帧格式转换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="1367" width="19" height="113" as="geometry" />
+          <mxGeometry x="1760" y="1370" width="19" height="113" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-182" value="连接状态监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1991" y="1347" width="156" height="48" as="geometry" />
