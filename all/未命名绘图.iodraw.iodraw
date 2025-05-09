@@ -10,24 +10,17 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-1289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1262" target="K1q46cgnioQDXiR4tbvy-1264">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-1290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1262" target="K1q46cgnioQDXiR4tbvy-1263">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="810" y="68" />
-              <mxPoint x="645" y="68" />
-              <mxPoint x="645" y="64" />
-              <mxPoint x="540" y="64" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1262" target="K1q46cgnioQDXiR4tbvy-1263">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1262" value="数据库模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="740" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1263" value="连接池管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="530" y="84" width="20" height="99" as="geometry" />
+          <mxGeometry x="530" y="91" width="20" height="99" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1264" value="多线程查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="620" y="84" width="20" height="101" as="geometry" />
+          <mxGeometry x="620" y="91" width="20" height="101" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1265" value="查询功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="690" y="92" width="20" height="100" as="geometry" />
