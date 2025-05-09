@@ -17,10 +17,10 @@
           <mxGeometry x="279" y="280" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-978" value="进入帧获取循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="317" y="516" width="172" height="48" as="geometry" />
+          <mxGeometry x="313" y="466" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-979" value="建立视频流连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="317" y="418" width="172" height="48" as="geometry" />
+          <mxGeometry x="279" y="350" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-980" value="捕获帧" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="96" y="614" width="96" height="96" as="geometry" />
