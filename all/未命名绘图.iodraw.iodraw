@@ -29,7 +29,7 @@
           <mxGeometry x="1180" y="260" width="20" height="105" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-234" value="图像缩放" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="260" width="20" height="100" as="geometry" />
+          <mxGeometry x="1100" y="280" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-236" value="归一化处理" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1020" y="280" width="20" height="110" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="650" y="280" width="24" height="110" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-235" value="色彩空间转换" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1066" y="260" width="24" height="100" as="geometry" />
+          <mxGeometry x="1060" y="280" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
