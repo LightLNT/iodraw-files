@@ -4,20 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="K1q46cgnioQDXiR4tbvy-859" value="视频帧流" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="680" y="45" width="210" height="247" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-860" value="视频流模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="K1q46cgnioQDXiR4tbvy-859">
-          <mxGeometry x="43" y="46" width="140" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-861" value="视频帧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="K1q46cgnioQDXiR4tbvy-859">
-          <mxGeometry x="59" y="169" width="108" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-862" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="K1q46cgnioQDXiR4tbvy-859" source="K1q46cgnioQDXiR4tbvy-860" target="K1q46cgnioQDXiR4tbvy-861">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-863" value="模块间数据流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="767" y="367" width="1238" height="640" as="geometry" />
         </mxCell>
