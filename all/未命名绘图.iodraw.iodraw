@@ -8,10 +8,10 @@
           <mxGeometry x="740" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1263" value="连接池管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="85" width="20" height="114" as="geometry" />
+          <mxGeometry x="380" y="100" width="20" height="99" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1264" value="多线程查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="590" y="90" width="20" height="101" as="geometry" />
+          <mxGeometry x="620" y="84" width="20" height="101" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1265" value="查询功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="690" y="85" width="20" height="100" as="geometry" />
