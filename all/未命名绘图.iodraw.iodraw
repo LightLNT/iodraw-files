@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="K1q46cgnioQDXiR4tbvy-416" value="交互特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1356" y="118" width="309" height="234" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-417" value="特征工程流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="394" y="30" width="913" height="387" as="geometry" />
-        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-423" value="特征选择&#xa;基于主成分分析&#xa;选择最相关特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="419" y="198" width="256" height="66" as="geometry" />
         </mxCell>
@@ -18,36 +12,6 @@
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-425" value="特征交互设计&#xa;捕捉参数间&#xa;相互作用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1025" y="198" width="256" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-426" value="温湿度交互&#xa;temp * hum" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1392" y="153" width="238" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-427" value="TVOC与eCO2比例&#xa;tvoc/&#xa;(eco2 + 1)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1381" y="252" width="259" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-429" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.13;entryY=0;rounded=0;" edge="1" parent="1" target="K1q46cgnioQDXiR4tbvy-423">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="394" y="178" />
-            </Array>
-            <mxPoint x="297" y="177.48000000000002" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-430" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.13;entryY=1;rounded=0;" edge="1" parent="1" target="K1q46cgnioQDXiR4tbvy-423">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="394" y="285" />
-            </Array>
-            <mxPoint x="319" y="285" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-431" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.38;entryY=1;rounded=0;" edge="1" parent="1" target="K1q46cgnioQDXiR4tbvy-423">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="394" y="392" />
-            </Array>
-            <mxPoint x="302" y="392" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-432" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-423" target="K1q46cgnioQDXiR4tbvy-424">
           <mxGeometry relative="1" as="geometry">
@@ -59,18 +23,20 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-434" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=0;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-425" target="K1q46cgnioQDXiR4tbvy-426">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-434" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=0;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-425">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1306" y="178" />
             </Array>
+            <mxPoint x="1392" y="177.48000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-435" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-425" target="K1q46cgnioQDXiR4tbvy-427">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-435" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-425">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1306" y="285" />
             </Array>
+            <mxPoint x="1381" y="285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
