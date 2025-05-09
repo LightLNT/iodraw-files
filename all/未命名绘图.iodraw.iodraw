@@ -10,6 +10,9 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-1136" value="创建左侧导航栏" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="28" y="118" width="162" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1137" target="K1q46cgnioQDXiR4tbvy-1172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1137" value="创建右侧内容区" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="737" y="118" width="172" height="48" as="geometry" />
         </mxCell>
