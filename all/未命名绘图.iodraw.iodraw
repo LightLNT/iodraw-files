@@ -11,10 +11,10 @@
           <mxGeometry x="695.5" y="610" width="186" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-439" value="左侧导航面板(QFrame)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="492" y="710" width="224" height="48" as="geometry" />
+          <mxGeometry x="492" y="700" width="224" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-440" value="右侧视图容器(QStackedWidget)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="890" y="722" width="256" height="66" as="geometry" />
+          <mxGeometry x="1060" y="700" width="256" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-441" value="按钮组(QButtonGroup)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="420" y="850" width="222" height="48" as="geometry" />
