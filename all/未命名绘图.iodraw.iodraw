@@ -23,10 +23,10 @@
           <mxGeometry x="1874" y="206" width="30" height="82" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-687" value="动画过渡效果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1966" y="206" width="26" height="82" as="geometry" />
+          <mxGeometry x="1940" y="206" width="26" height="82" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-688" value="状态保持" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2038" y="206" width="30" height="82" as="geometry" />
+          <mxGeometry x="2000" y="206" width="30" height="82" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-689" value="模块通信" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2164" y="110" width="124" height="48" as="geometry" />
