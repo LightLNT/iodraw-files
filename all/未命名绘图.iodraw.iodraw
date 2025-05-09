@@ -41,10 +41,10 @@
           <mxGeometry x="1780" y="360" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-876" value="告警信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="652" width="124" height="48" as="geometry" />
+          <mxGeometry x="1794" y="460" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-877" value="告警流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1738" y="750" width="108" height="48" as="geometry" />
+          <mxGeometry x="1802" y="536" width="108" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-878" value="系统集成模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1714" y="848" width="156" height="48" as="geometry" />
