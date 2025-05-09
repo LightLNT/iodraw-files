@@ -141,7 +141,7 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-48" value="传递视频帧" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=18;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-28" target="K1q46cgnioQDXiR4tbvy-31">
           <mxGeometry x="-0.1378" y="10" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1000" y="900" />
+              <mxPoint x="990" y="890" />
               <mxPoint x="960" y="1050" />
               <mxPoint x="986" y="1113" />
             </Array>
