@@ -7,8 +7,8 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-437" value="主窗口(MainWindow)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="670" y="520" width="209" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-438" value="主分割布局(QSplitter)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="329" y="230" width="186" height="48" as="geometry" />
+        <mxCell id="K1q46cgnioQDXiR4tbvy-438" value="主分割布局(QSplitter)" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="670" y="600" width="186" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-439" value="左侧导航面板(QFrame)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="581" y="69" width="224" height="48" as="geometry" />
