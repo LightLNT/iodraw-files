@@ -23,10 +23,10 @@
           <mxGeometry x="1270" y="1610" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-113" value="实时数据查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="195" y="1767" width="25" height="48" as="geometry" />
+          <mxGeometry x="690" y="1810" width="20" height="103" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-114" value="日期范围查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1810" width="19" height="113" as="geometry" />
+          <mxGeometry x="760" y="1810" width="20" height="113" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-115" value="统计数据查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="820" y="1815" width="23" height="103" as="geometry" />
