@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="K1q46cgnioQDXiR4tbvy-863" value="模块间数据流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="920" y="380" width="1238" height="640" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-864" value="传感器数据流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="940" y="405" width="745" height="197" as="geometry" />
-        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-865" value="信号连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="925" y="20" width="1208" height="297" as="geometry" />
         </mxCell>
