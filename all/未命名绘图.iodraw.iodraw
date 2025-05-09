@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-171" value="视频流处理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1892" y="1150" width="172" height="48" as="geometry" />
+          <mxGeometry x="1892" y="1150" width="172" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-172" target="K1q46cgnioQDXiR4tbvy-178">
           <mxGeometry relative="1" as="geometry">
