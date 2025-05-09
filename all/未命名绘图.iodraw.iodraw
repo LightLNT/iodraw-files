@@ -43,7 +43,7 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-1190" value="更新数据显示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="28" y="871" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-1226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1191">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1191" target="K1q46cgnioQDXiR4tbvy-1224">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380.0000000000002" y="970" as="targetPoint" />
           </mxGeometry>
@@ -63,8 +63,14 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-1193" value="播放警报声音" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="494" y="871" width="156" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1194" target="K1q46cgnioQDXiR4tbvy-1224">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1194" value="显示错误消息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="660" y="871" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1195" target="K1q46cgnioQDXiR4tbvy-1224">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1195" value="执行用户请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="818.5" y="871" width="156" height="48" as="geometry" />
