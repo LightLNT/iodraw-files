@@ -4,14 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="K1q46cgnioQDXiR4tbvy-670" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-615" target="K1q46cgnioQDXiR4tbvy-618">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-615" value="火焰监控界面&#xa;FireMonitorPage" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3035" y="10" width="254" height="66" as="geometry" />
+          <mxGeometry x="3035" y="10" width="254" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-671" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-618" target="K1q46cgnioQDXiR4tbvy-625">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-618" value="核心功能组件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3084" y="136" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-625" value="火焰检测&#xa;FireDetector" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2620" y="243" width="230" height="48" as="geometry" />
+          <mxGeometry x="2780" y="230" width="230" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-626" value="视频流控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3092" y="243" width="140" height="48" as="geometry" />
@@ -30,13 +36,6 @@
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-640" value="停止按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3274" y="350" width="124" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-652" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.69;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-618" target="K1q46cgnioQDXiR4tbvy-625">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2735" y="209" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-653" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-618" target="K1q46cgnioQDXiR4tbvy-626">
           <mxGeometry relative="1" as="geometry">
