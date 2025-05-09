@@ -13,6 +13,9 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-151" value="传感器数据标准化与数据清洗模块" style="whiteSpace=wrap;strokeWidth=2;direction=east;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="1151" y="1620" width="252" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-152" target="K1q46cgnioQDXiR4tbvy-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-152" value="信息通知和数据监控模块" style="whiteSpace=wrap;strokeWidth=2;direction=east;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="1159" y="1706" width="236" height="48" as="geometry" />
         </mxCell>
@@ -41,12 +44,6 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-158" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-151" target="K1q46cgnioQDXiR4tbvy-152">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-159" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="K1q46cgnioQDXiR4tbvy-153">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1277" y="1780" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-165" target="K1q46cgnioQDXiR4tbvy-149">
