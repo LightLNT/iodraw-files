@@ -157,13 +157,18 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-1010" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="1060" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-1011" value="" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0;entryX=0.67;entryY=1.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-984" target="K1q46cgnioQDXiR4tbvy-983">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1011" value="" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.67;entryY=1.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-984" target="K1q46cgnioQDXiR4tbvy-983">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="370" y="851" />
             </Array>
             <mxPoint x="322" y="835" as="sourcePoint" />
             <mxPoint x="383" y="498" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1012" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="K1q46cgnioQDXiR4tbvy-1011">
+          <mxGeometry x="0.0731" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-983" value="增加失败计数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
