@@ -38,7 +38,7 @@
           <mxGeometry x="1040" y="1790" width="18" height="110" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-118" value="异步查询机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1225" y="1767" width="156" height="48" as="geometry" />
+          <mxGeometry x="1190" y="1780" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-119" value="信号通知机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1431" y="1767" width="156" height="48" as="geometry" />
