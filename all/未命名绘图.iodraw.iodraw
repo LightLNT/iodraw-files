@@ -138,12 +138,14 @@
             <mxPoint x="472" y="885" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-48" value="传递视频帧" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-28" target="K1q46cgnioQDXiR4tbvy-33">
-          <mxGeometry x="-0.1378" y="-70" relative="1" as="geometry">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-48" value="传递视频帧" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+          <mxGeometry x="-0.1378" y="10" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="960" y="990" />
-              <mxPoint x="986" y="1053" />
+              <mxPoint x="960" y="980" />
+              <mxPoint x="986" y="1043" />
             </Array>
+            <mxPoint x="876.3235294117649" y="980" as="sourcePoint" />
+            <mxPoint x="1077" y="1042.9999999999998" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
