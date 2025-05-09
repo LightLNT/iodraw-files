@@ -53,7 +53,7 @@
           <mxGeometry x="70" y="325" width="10" height="64" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-36" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="K1q46cgnioQDXiR4tbvy-34">
-          <mxGeometry x="70" y="630" width="10" height="54" as="geometry" />
+          <mxGeometry x="70" y="630" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-37" value="启动" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-20" target="K1q46cgnioQDXiR4tbvy-22">
           <mxGeometry relative="1" as="geometry">
