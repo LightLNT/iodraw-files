@@ -4,36 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="K1q46cgnioQDXiR4tbvy-1231" value="数据库连接恢复" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="130" width="258" height="546" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-1232" value="连接失败检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="K1q46cgnioQDXiR4tbvy-1231">
-          <mxGeometry x="59" y="46" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-1233" value="重试机制&#xa;最大重试次数限制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="K1q46cgnioQDXiR4tbvy-1231">
-          <mxGeometry x="43" y="169" width="188" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-1234" value="等待间隔&#xa;渐进增加" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="K1q46cgnioQDXiR4tbvy-1231">
-          <mxGeometry x="75" y="310" width="124" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-1235" value="连接恢复&#xa;重新建立连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="K1q46cgnioQDXiR4tbvy-1231">
-          <mxGeometry x="59" y="451" width="156" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-1236" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="K1q46cgnioQDXiR4tbvy-1231" source="K1q46cgnioQDXiR4tbvy-1232" target="K1q46cgnioQDXiR4tbvy-1233">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-1237" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="K1q46cgnioQDXiR4tbvy-1231" source="K1q46cgnioQDXiR4tbvy-1233" target="K1q46cgnioQDXiR4tbvy-1234">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-1238" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="K1q46cgnioQDXiR4tbvy-1231" source="K1q46cgnioQDXiR4tbvy-1234" target="K1q46cgnioQDXiR4tbvy-1235">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1239" value="视频流恢复" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="328" y="139" width="242" height="529" as="geometry" />
         </mxCell>
@@ -82,6 +52,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1252" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="K1q46cgnioQDXiR4tbvy-1247" source="K1q46cgnioQDXiR4tbvy-1249" target="K1q46cgnioQDXiR4tbvy-1250">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1232" value="连接失败检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="916" y="150" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1233" value="重试机制&#xa;最大重试次数限制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="900" y="273" width="188" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1234" value="等待间隔&#xa;渐进增加" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="932" y="414" width="124" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1235" value="连接恢复&#xa;重新建立连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="916" y="555" width="156" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1236" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1232" target="K1q46cgnioQDXiR4tbvy-1233">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1237" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1233" target="K1q46cgnioQDXiR4tbvy-1234">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1238" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1234" target="K1q46cgnioQDXiR4tbvy-1235">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
