@@ -14,16 +14,16 @@
           <mxGeometry x="629" y="80" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-377" value="模型加载与初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="209" y="178" width="21" height="48" as="geometry" />
+          <mxGeometry x="278" y="178" width="21" height="142" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-378" value="风险预测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="911" y="178" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-379" value="加载预训练模型&#xa;&#xa;xgb.Booster()" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="277" width="258" height="66" as="geometry" />
+          <mxGeometry x="30" y="350" width="258" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-380" value="模型初始化检查&#xa;异常处理&#xa;机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="328" y="277" width="256" height="66" as="geometry" />
+          <mxGeometry x="328" y="350" width="256" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-381" value="风险预测实现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="634" y="334" width="156" height="48" as="geometry" />
