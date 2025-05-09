@@ -22,6 +22,9 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-625" value="火焰检测&#xa;FireDetector" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2900" y="230" width="230" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-673" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-626" target="K1q46cgnioQDXiR4tbvy-638">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-626" value="视频流控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3240" y="230" width="140" height="48" as="geometry" />
         </mxCell>
@@ -32,10 +35,10 @@
           <mxGeometry x="2756" y="350" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-638" value="URL输入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2930" y="350" width="120" height="48" as="geometry" />
+          <mxGeometry x="3150" y="340" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-639" value="连接按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3248" y="340" width="124" height="48" as="geometry" />
+          <mxGeometry x="3280" y="340" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-640" value="停止按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3410" y="340" width="124" height="48" as="geometry" />
@@ -51,25 +54,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2818" y="325" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-665" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-626" target="K1q46cgnioQDXiR4tbvy-638">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2990" y="325" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-666" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-626" target="K1q46cgnioQDXiR4tbvy-639">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-667" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-626" target="K1q46cgnioQDXiR4tbvy-640">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3336" y="325" />
             </Array>
           </mxGeometry>
         </mxCell>
