@@ -38,7 +38,7 @@
           <mxGeometry x="2190" y="208" width="26" height="72" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-692" value="事件分发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2250" y="208" width="32" height="72" as="geometry" />
+          <mxGeometry x="2232" y="208" width="32" height="72" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-693" value="资源管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2340" y="110" width="124" height="48" as="geometry" />
