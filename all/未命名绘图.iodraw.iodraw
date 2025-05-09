@@ -50,10 +50,10 @@
           <mxGeometry x="486" y="390" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-243" value="结果平滑机制" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="440" y="390" width="126" height="48" as="geometry" />
+          <mxGeometry x="612" y="250" width="18" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-244" value="结果可视化" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="566" y="250" width="24" height="48" as="geometry" />
+          <mxGeometry x="566" y="250" width="24" height="110" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-235" value="色彩空间转换" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1020" y="370" width="126" height="48" as="geometry" />
