@@ -19,6 +19,12 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-226" value="火焰检测模块" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="930" y="50" width="126" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-285" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-227" target="K1q46cgnioQDXiR4tbvy-233">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-227" target="K1q46cgnioQDXiR4tbvy-232">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-227" value="模型加载与管理" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1221" y="140" width="20" height="110" as="geometry" />
         </mxCell>
@@ -33,7 +39,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-284" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-228" target="K1q46cgnioQDXiR4tbvy-234">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-284" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-228" target="K1q46cgnioQDXiR4tbvy-234">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1056" y="270" />
