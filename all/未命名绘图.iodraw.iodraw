@@ -52,34 +52,6 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-186" value="网络超时处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2815" y="1347" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-187" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-171" target="K1q46cgnioQDXiR4tbvy-172">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1077" y="1223" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-188" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-171" target="K1q46cgnioQDXiR4tbvy-173">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1681" y="1223" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-189" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-171" target="K1q46cgnioQDXiR4tbvy-174">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2172" y="1223" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-190" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.63;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-171" target="K1q46cgnioQDXiR4tbvy-175">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2687" y="1223" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-191" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-172" target="K1q46cgnioQDXiR4tbvy-176">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
