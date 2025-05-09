@@ -30,7 +30,7 @@
           <mxGeometry x="620" y="84" width="20" height="101" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1265" value="查询功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="690" y="85" width="20" height="100" as="geometry" />
+          <mxGeometry x="690" y="92" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1266" value="异常处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="915" y="118" width="124" height="48" as="geometry" />
