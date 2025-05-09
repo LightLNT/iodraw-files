@@ -17,7 +17,7 @@
           <mxGeometry x="810" y="230" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-230" value="后处理与可视化" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="196" y="1432" width="142" height="48" as="geometry" />
+          <mxGeometry x="540" y="230" width="142" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-231" value="ONNX模型加载" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="390" width="134" height="48" as="geometry" />
@@ -42,9 +42,6 @@
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-239" value="结果解析" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="370" width="94" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-240" value="多线程处理" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="404" y="1236" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-241" value="边界框坐标转换" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="388" y="1334" width="142" height="48" as="geometry" />
