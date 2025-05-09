@@ -32,10 +32,10 @@
           <mxGeometry x="350" y="773" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1184" value="错误处理与日志" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="786" y="773" width="172" height="48" as="geometry" />
+          <mxGeometry x="622" y="780" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1185" value="处理UI事件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1019" y="773" width="139" height="48" as="geometry" />
+          <mxGeometry x="827" y="780" width="139" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1190" value="更新数据显示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="28" y="871" width="156" height="48" as="geometry" />
@@ -50,10 +50,10 @@
           <mxGeometry x="494" y="871" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1194" value="显示错误消息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="794" y="871" width="156" height="48" as="geometry" />
+          <mxGeometry x="660" y="871" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1195" value="执行用户请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="871" width="156" height="48" as="geometry" />
+          <mxGeometry x="818.5" y="871" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1196" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1175" target="K1q46cgnioQDXiR4tbvy-1176">
           <mxGeometry relative="1" as="geometry">
