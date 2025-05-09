@@ -58,10 +58,10 @@
           <mxGeometry x="690" y="92" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1266" value="异常处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="915" y="118" width="25" height="48" as="geometry" />
+          <mxGeometry x="920" y="99.5" width="25" height="82" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1267" value="数据同步策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1228" y="118" width="156" height="48" as="geometry" />
+          <mxGeometry x="1050" y="94.5" width="22" height="92" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1268" value="实时数据查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="620" y="250" width="20" height="100" as="geometry" />
