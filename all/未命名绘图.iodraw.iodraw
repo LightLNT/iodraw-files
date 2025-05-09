@@ -217,7 +217,7 @@
           <mxGeometry x="70" y="350" width="10" height="64" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-63" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="K1q46cgnioQDXiR4tbvy-61">
-          <mxGeometry x="70" y="890" width="10" height="54" as="geometry" />
+          <mxGeometry x="70" y="830" width="10" height="54" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-64" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-35" target="K1q46cgnioQDXiR4tbvy-61">
           <mxGeometry relative="1" as="geometry" />
