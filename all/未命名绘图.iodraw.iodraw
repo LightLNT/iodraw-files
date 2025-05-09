@@ -17,7 +17,7 @@
           <mxGeometry x="18" y="390" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1041" value="执行ONNX模型推理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="32" y="529" width="196" height="48" as="geometry" />
+          <mxGeometry x="32" y="480" width="196" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1042" value="后处理检测结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="45" y="600" width="172" height="48" as="geometry" />
@@ -55,13 +55,6 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-1050" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1039" target="K1q46cgnioQDXiR4tbvy-1040">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-1051" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.38;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1040" target="K1q46cgnioQDXiR4tbvy-1041">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="82" y="504" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1052" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1041" target="K1q46cgnioQDXiR4tbvy-1042">
