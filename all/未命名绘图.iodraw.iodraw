@@ -20,7 +20,7 @@
           <mxGeometry x="306" y="414" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1180" value="处理用户事件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="306" y="512" width="156" height="48" as="geometry" />
+          <mxGeometry x="306" y="536" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1181" value="事件类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="328" y="610" width="112" height="112" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="28" y="773" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1183" value="处理警报事件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="350" y="773" width="156" height="48" as="geometry" />
+          <mxGeometry x="354" y="760" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1184" value="错误处理与日志" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="622" y="780" width="172" height="48" as="geometry" />
