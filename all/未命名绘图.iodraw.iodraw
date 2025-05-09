@@ -69,6 +69,16 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-1298" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1267" target="K1q46cgnioQDXiR4tbvy-1273">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-1267" target="K1q46cgnioQDXiR4tbvy-1274">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1061" y="206" />
+              <mxPoint x="1092" y="206" />
+              <mxPoint x="1092" y="210" />
+              <mxPoint x="1100" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1267" value="数据同步策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1050" y="94.5" width="22" height="92" as="geometry" />
         </mxCell>
