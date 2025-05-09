@@ -11,10 +11,10 @@
           <mxGeometry x="1180" y="1430" width="194" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-150" value="传感器数据转换与预处理模块" style="whiteSpace=wrap;strokeWidth=2;direction=east;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="1151" y="1560" width="252" height="66" as="geometry" />
+          <mxGeometry x="1151" y="1530" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-151" value="传感器数据标准化与数据清洗模块" style="whiteSpace=wrap;strokeWidth=2;direction=east;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="1471" y="1670" width="252" height="66" as="geometry" />
+          <mxGeometry x="1220" y="1670" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-152" value="信息通知和数据监控模块" style="whiteSpace=wrap;strokeWidth=2;direction=east;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="1773" y="1679" width="236" height="48" as="geometry" />
@@ -33,7 +33,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-157" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-150" target="K1q46cgnioQDXiR4tbvy-151">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-157" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-150" target="K1q46cgnioQDXiR4tbvy-151">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
