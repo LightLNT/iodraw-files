@@ -8,10 +8,10 @@
           <mxGeometry x="950" y="20" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-682" value="配置加载" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="800" y="118" width="30" height="48" as="geometry" />
+          <mxGeometry x="800" y="118" width="30" height="102" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-683" value="模块初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="974" y="118" width="140" height="48" as="geometry" />
+          <mxGeometry x="974" y="118" width="26" height="92" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-684" value="日志系统设置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1164" y="118" width="156" height="48" as="geometry" />
