@@ -23,10 +23,10 @@
           <mxGeometry x="150" y="940" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-443" value="传感器监控按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="996" width="172" height="48" as="geometry" />
+          <mxGeometry x="320" y="940" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-444" value="历史数据按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1000" width="156" height="48" as="geometry" />
+          <mxGeometry x="510" y="940" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-445" value="火焰监控页面(FireMonitorPage)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1310" y="850" width="253" height="66" as="geometry" />
@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-458" value="警报管理按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="740" y="1000" width="156" height="48" as="geometry" />
+          <mxGeometry x="684" y="940" width="156" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
