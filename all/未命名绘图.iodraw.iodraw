@@ -32,10 +32,10 @@
           <mxGeometry x="1160" y="740" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-446" value="传感器监控页面(SensorDashboard)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1092" y="820" width="258" height="66" as="geometry" />
+          <mxGeometry x="1000" y="850" width="258" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-447" value="历史数据页面(HistoryDataPage)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1111" y="930" width="254" height="66" as="geometry" />
+          <mxGeometry x="716" y="868" width="254" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-451" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-439" target="K1q46cgnioQDXiR4tbvy-441">
           <mxGeometry relative="1" as="geometry">
@@ -85,8 +85,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-458" value="历史数据按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1010" width="156" height="48" as="geometry" />
+        <mxCell id="K1q46cgnioQDXiR4tbvy-458" value="警报管理按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1000" width="156" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
