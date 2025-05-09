@@ -41,10 +41,15 @@
           <mxGeometry x="329" y="1159" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-986" value="重连成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1220" width="119" height="119" as="geometry" />
+          <mxGeometry x="449.5" y="1220" width="119" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-987" value="重启连接线程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="431" y="1449" width="156" height="48" as="geometry" />
+        <mxCell id="K1q46cgnioQDXiR4tbvy-1008" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-987">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K1q46cgnioQDXiR4tbvy-987" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1370" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-988" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-974" target="K1q46cgnioQDXiR4tbvy-975">
           <mxGeometry relative="1" as="geometry">
