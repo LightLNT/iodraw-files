@@ -7,55 +7,55 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-226" value="火焰检测模块" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="70" width="126" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-227" value="模型加载与管理" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-227" value="模型加载与管理" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="230" width="142" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-228" value="图像预处理" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-228" value="图像预处理" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="230" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-229" value="火焰检测算法" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="230" width="126" height="48" as="geometry" />
+          <mxGeometry x="810" y="230" width="20" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-230" value="后处理与可视化" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-230" value="后处理与可视化" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="230" width="142" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-231" value="ONNX模型加载" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-231" value="ONNX模型加载" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="390" width="134" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-232" value="会话创建与优化" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-232" value="会话创建与优化" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="390" width="142" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-233" value="模型元数据获取" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-233" value="模型元数据获取" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="390" width="142" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-234" value="图像缩放" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-234" value="图像缩放" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="1118" y="370" width="94" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-236" value="归一化处理" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-236" value="归一化处理" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="370" width="110" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-237" value="通道转换" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-237" value="通道转换" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="826" y="370" width="94" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-238" value="模型推理执行" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-238" value="模型推理执行" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="370" width="126" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-239" value="结果解析" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-239" value="结果解析" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="370" width="94" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-241" value="边界框坐标转换" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-241" value="边界框坐标转换" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="390" width="142" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-242" value="非极大值抑制" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-242" value="非极大值抑制" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="486" y="390" width="126" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-243" value="结果平滑机制" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-243" value="结果平滑机制" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="390" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-244" value="结果可视化" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="390" width="110" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-235" value="色彩空间转换" style="rounded=1;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-235" value="色彩空间转换" style="rounded=0;arcSize=20;strokeWidth=2;direction=east;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="370" width="126" height="48" as="geometry" />
         </mxCell>
       </root>
