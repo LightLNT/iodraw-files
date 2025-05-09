@@ -47,10 +47,10 @@
           <mxGeometry x="1923" y="248" width="17" height="102" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-577" value="排序过滤" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2097" y="248" width="23" height="92" as="geometry" />
+          <mxGeometry x="2097" y="248" width="23" height="102" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-578" value="分页控件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2271" y="248" width="124" height="48" as="geometry" />
+          <mxGeometry x="2150" y="250" width="19" height="90" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-582" value="查询执行器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2470" y="248" width="140" height="48" as="geometry" />
