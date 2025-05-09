@@ -101,16 +101,16 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-484" value="状态指示" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="610" y="592" width="94" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-485" value="多参数曲线" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-485" value="多参数曲线" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="715" y="595.5" width="110" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-486" value="当前值显示" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-486" value="当前值显示" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="825" y="585" width="110" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-487" value="单位标识" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-487" value="单位标识" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="935" y="585" width="94" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-488" value="当前值显示" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-488" value="当前值显示" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1040" y="585" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-489" value="单位标识" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
