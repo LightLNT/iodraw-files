@@ -35,10 +35,10 @@
           <mxGeometry x="284" y="710" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-984" value="超过最大失败次数?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="302" y="770" width="183" height="183" as="geometry" />
+          <mxGeometry x="203" y="807" width="183" height="183" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-985" value="尝试重新连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="315.5" y="990" width="156" height="48" as="geometry" />
+          <mxGeometry x="295" y="1030" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-986" value="重连成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="430" y="1090" width="119" height="119" as="geometry" />
@@ -104,7 +104,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-998" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.28;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-983" target="K1q46cgnioQDXiR4tbvy-984">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-998" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.673;entryY=0.169;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-983" target="K1q46cgnioQDXiR4tbvy-984">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="351" y="780" />
