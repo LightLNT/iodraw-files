@@ -14,7 +14,7 @@
           <mxGeometry x="95" y="418" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-977" value="根据协议选择连接策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="279" y="280" width="220" height="48" as="geometry" />
+          <mxGeometry x="279" y="280" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-978" value="进入帧获取循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="317" y="516" width="172" height="48" as="geometry" />
@@ -60,6 +60,7 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-990" value="网络流" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.89;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-975" target="K1q46cgnioQDXiR4tbvy-977">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="340" y="220" />
               <mxPoint x="403" y="283" />
             </Array>
           </mxGeometry>
