@@ -23,16 +23,16 @@
         <mxCell id="K1q46cgnioQDXiR4tbvy-473" value="实时监测界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="983" y="290" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-512" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-474" target="K1q46cgnioQDXiR4tbvy-476">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-512" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-474" target="K1q46cgnioQDXiR4tbvy-476">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-513" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-474" target="K1q46cgnioQDXiR4tbvy-477">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-513" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-474" target="K1q46cgnioQDXiR4tbvy-477">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-514" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-474" target="K1q46cgnioQDXiR4tbvy-478">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-514" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-474" target="K1q46cgnioQDXiR4tbvy-478">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K1q46cgnioQDXiR4tbvy-515" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-474" target="K1q46cgnioQDXiR4tbvy-479">
+        <mxCell id="K1q46cgnioQDXiR4tbvy-515" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="K1q46cgnioQDXiR4tbvy-474" target="K1q46cgnioQDXiR4tbvy-479">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-474" value="数据卡片组件" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
