@@ -32,7 +32,7 @@
           <mxGeometry x="570" y="217" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1271" value="数据导出功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="620" y="217" width="156" height="48" as="geometry" />
+          <mxGeometry x="620" y="217" width="20" height="103" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-1272" value="定时刷新机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="899" y="217" width="156" height="48" as="geometry" />
