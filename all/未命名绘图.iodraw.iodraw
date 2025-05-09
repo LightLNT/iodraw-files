@@ -17,7 +17,7 @@
           <mxGeometry x="1164" y="236" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-532" value="状态管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1715" y="236" width="124" height="48" as="geometry" />
+          <mxGeometry x="1350" y="236" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-533" value="温度卡片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="940" y="331" width="20" height="119" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="1290" y="334" width="25" height="106" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-539" value="数据更新定时器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1477" y="334" width="172" height="48" as="geometry" />
+          <mxGeometry x="1370" y="334" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K1q46cgnioQDXiR4tbvy-540" value="数据处理逻辑" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1699" y="334" width="156" height="48" as="geometry" />
