@@ -17,19 +17,19 @@
           <mxGeometry x="983" y="240" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-186" value="按钮组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="611" y="350" width="24" height="120" as="geometry" />
+          <mxGeometry x="621" y="490" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-187" value="火焰监控按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="560" y="490" width="24" height="120" as="geometry" />
+          <mxGeometry x="570" y="630" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-188" value="传感器监控按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="635" y="490" width="24" height="120" as="geometry" />
+          <mxGeometry x="645" y="630" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-189" value="历史数据按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="700" y="490" width="24" height="120" as="geometry" />
+          <mxGeometry x="710" y="630" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-190" value="警报管理按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="770" y="490" width="24" height="120" as="geometry" />
+          <mxGeometry x="780" y="630" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-191" value="历史数据页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="910" y="490" width="24" height="120" as="geometry" />
