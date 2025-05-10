@@ -64,6 +64,9 @@
         <mxCell id="3xbHb2MYgehzOMDbgd3U-131" value="定时刷新机制" style="rounded=0;arcSize=20;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="770" y="400" width="24" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-132" target="3xbHb2MYgehzOMDbgd3U-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-132" value="数据同步策略" style="rounded=0;arcSize=20;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="860" y="230" width="24" height="120" as="geometry" />
         </mxCell>
@@ -71,7 +74,7 @@
           <mxGeometry x="836" y="400" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-134" value="信号通知机制" style="rounded=0;arcSize=20;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="910" y="400" width="24" height="120" as="geometry" />
+          <mxGeometry x="900" y="400" width="24" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
