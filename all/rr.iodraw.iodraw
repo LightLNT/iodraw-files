@@ -17,7 +17,7 @@
           <mxGeometry x="1967" y="136" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-55" value="日期范围选择器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="400" y="310" width="30" height="120" as="geometry" />
+          <mxGeometry x="400" y="310" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-56" value="数据过滤选项" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="610" y="320" width="30" height="120" as="geometry" />
