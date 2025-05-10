@@ -23,25 +23,25 @@
           <mxGeometry x="826" y="315" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-128" value="统计数据查询" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="986" y="266" width="126" height="48" as="geometry" />
+          <mxGeometry x="986" y="266" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-129" value="数据导出功能" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="986" y="364" width="126" height="48" as="geometry" />
+          <mxGeometry x="986" y="364" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-130" value="异常处理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="826" y="463" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-131" value="定时刷新机制" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="986" y="463" width="126" height="48" as="geometry" />
+          <mxGeometry x="986" y="463" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-132" value="数据同步策略" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="810" y="610" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-133" value="异步查询机制" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="986" y="561" width="126" height="48" as="geometry" />
+          <mxGeometry x="986" y="561" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-134" value="信号通知机制" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="986" y="660" width="126" height="48" as="geometry" />
+          <mxGeometry x="986" y="660" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-135" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-122" target="3xbHb2MYgehzOMDbgd3U-123">
           <mxGeometry relative="1" as="geometry">
