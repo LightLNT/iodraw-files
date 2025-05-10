@@ -38,24 +38,10 @@
           <mxGeometry x="860" y="230" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-133" value="异步查询机制" style="rounded=1;arcSize=20;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="986" y="561" width="24" height="120" as="geometry" />
+          <mxGeometry x="850" y="390" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-134" value="信号通知机制" style="rounded=1;arcSize=20;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="986" y="660" width="24" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-145" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=0.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-132" target="3xbHb2MYgehzOMDbgd3U-133">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="961" y="585" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-146" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=1.02;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-132" target="3xbHb2MYgehzOMDbgd3U-134">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="961" y="684" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
