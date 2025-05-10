@@ -14,10 +14,10 @@
           <mxGeometry x="430" y="230" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-125" value="实时数据查询" style="rounded=1;arcSize=20;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="986" y="69" width="24" height="120" as="geometry" />
+          <mxGeometry x="450" y="386" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-126" value="日期范围查询" style="rounded=1;arcSize=20;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="986" y="168" width="24" height="120" as="geometry" />
+          <mxGeometry x="510" y="386" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-127" value="查询功能" style="rounded=1;arcSize=20;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="520" y="230" width="24" height="120" as="geometry" />
