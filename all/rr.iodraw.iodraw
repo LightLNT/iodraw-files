@@ -11,6 +11,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-2" target="3xbHb2MYgehzOMDbgd3U-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="322" y="348" />
+              <mxPoint x="316" y="348" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-2" target="3xbHb2MYgehzOMDbgd3U-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-2" value="应用初始化与配置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -29,7 +37,7 @@
           <mxGeometry x="180" y="387" width="24" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-7" value="模块初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="304" y="387" width="24" height="130" as="geometry" />
+          <mxGeometry x="310" y="387" width="24" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-8" value="日志系统设置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="402" y="387" width="24" height="130" as="geometry" />
