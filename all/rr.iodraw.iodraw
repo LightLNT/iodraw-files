@@ -26,10 +26,10 @@
           <mxGeometry x="256" y="449" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-189" value="历史数据按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="478" y="449" width="156" height="48" as="geometry" />
+          <mxGeometry x="430" y="500" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-190" value="警报管理按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="684" y="449" width="156" height="48" as="geometry" />
+          <mxGeometry x="550" y="500" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-191" value="历史数据页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="514" y="333" width="213" height="66" as="geometry" />
