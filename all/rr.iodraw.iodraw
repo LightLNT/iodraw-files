@@ -68,7 +68,7 @@
           <mxGeometry x="847.5" y="430" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-192" value="传感器监控页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="896.5" y="430" width="24" height="120" as="geometry" />
+          <mxGeometry x="896.5" y="430" width="24" height="140" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-193" value="火焰监控页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="944.5" y="430" width="24" height="120" as="geometry" />
