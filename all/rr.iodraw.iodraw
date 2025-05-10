@@ -63,20 +63,17 @@
         <mxCell id="3xbHb2MYgehzOMDbgd3U-62" value="分页控件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="3xbHb2MYgehzOMDbgd3U-84">
           <mxGeometry x="270" width="24" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-85" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="400" y="300" width="630" height="140" as="geometry" />
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-55" value="日期范围选择器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="24" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-55" value="日期范围选择器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="3xbHb2MYgehzOMDbgd3U-85">
-          <mxGeometry y="10" width="24" height="120" as="geometry" />
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-56" value="数据过滤选项" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="610" y="310" width="24" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-56" value="数据过滤选项" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="3xbHb2MYgehzOMDbgd3U-85">
-          <mxGeometry x="210" y="20" width="24" height="120" as="geometry" />
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-57" value="查询按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="840" y="290" width="24" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-57" value="查询按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="3xbHb2MYgehzOMDbgd3U-85">
-          <mxGeometry x="440" width="24" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-58" value="导出按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="3xbHb2MYgehzOMDbgd3U-85">
-          <mxGeometry x="602" width="24" height="120" as="geometry" />
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-58" value="导出按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1002" y="290" width="24" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
