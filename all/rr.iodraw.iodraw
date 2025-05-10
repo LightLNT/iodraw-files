@@ -14,10 +14,10 @@
           <mxGeometry x="709" y="138" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-165" value="加载预训练模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="150" y="237" width="24" height="120" as="geometry" />
+          <mxGeometry x="200" y="280" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-166" value="模型初始化检查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="372" y="237" width="24" height="120" as="geometry" />
+          <mxGeometry x="300" y="280" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-167" value="风险预测实现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="594" y="237" width="24" height="120" as="geometry" />
