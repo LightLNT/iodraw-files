@@ -40,37 +40,11 @@
         <mxCell id="3xbHb2MYgehzOMDbgd3U-58" value="导出按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1002" y="300" width="24" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-59" value="表格模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="300" width="24" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-60" value="表格视图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1386.5" y="300" width="24" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-61" value="排序过滤" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="300" width="24" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-62" value="分页控件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="300" width="24" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-63" value="查询执行器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1872" y="234" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-64" value="结果处理器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2062" y="234" width="24" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-52" target="3xbHb2MYgehzOMDbgd3U-55">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="486" y="209" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-52" target="3xbHb2MYgehzOMDbgd3U-56">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="700" y="209" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-54" target="3xbHb2MYgehzOMDbgd3U-63">
           <mxGeometry relative="1" as="geometry">
@@ -85,6 +59,21 @@
               <mxPoint x="2132" y="209" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-84" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1300" y="300" width="294" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-59" value="表格模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="3xbHb2MYgehzOMDbgd3U-84">
+          <mxGeometry width="24" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-60" value="表格视图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="3xbHb2MYgehzOMDbgd3U-84">
+          <mxGeometry x="86.5" width="24" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-61" value="排序过滤" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="3xbHb2MYgehzOMDbgd3U-84">
+          <mxGeometry x="200" width="24" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-62" value="分页控件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="3xbHb2MYgehzOMDbgd3U-84">
+          <mxGeometry x="270" width="24" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
