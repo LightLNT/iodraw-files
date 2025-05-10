@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3xbHb2MYgehzOMDbgd3U-51" value="历史数据界面&#xa;HistoryDataPage" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1410.5" y="30" width="177" height="66" as="geometry" />
+          <mxGeometry x="1410.5" y="30" width="129.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-52" value="查询控件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="733" y="136" width="124" height="48" as="geometry" />
+          <mxGeometry x="733" y="136" width="30" height="48" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-53" value="数据表格" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1437" y="136" width="124" height="48" as="geometry" />
