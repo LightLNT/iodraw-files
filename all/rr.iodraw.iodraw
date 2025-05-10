@@ -32,7 +32,7 @@
           <mxGeometry x="590" y="217" width="24" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-10" value="动画过渡效果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="764" y="217" width="24" height="103" as="geometry" />
+          <mxGeometry x="764" y="217" width="24" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-11" value="状态保持" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="970" y="217" width="20" height="113" as="geometry" />
