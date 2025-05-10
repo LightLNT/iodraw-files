@@ -7,7 +7,7 @@
         <mxCell id="3xbHb2MYgehzOMDbgd3U-122" value="数据库模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="520" y="120" width="140" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-123" value="连接池管理" style="rounded=1;arcSize=20;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-123" value="连接池管理" style="rounded=0;arcSize=20;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="370" y="230" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-124" value="多线程查询" style="rounded=1;arcSize=20;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
@@ -41,7 +41,7 @@
           <mxGeometry x="850" y="390" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-134" value="信号通知机制" style="rounded=1;arcSize=20;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="986" y="660" width="24" height="120" as="geometry" />
+          <mxGeometry x="910" y="390" width="24" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
