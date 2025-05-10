@@ -16,7 +16,7 @@
         <mxCell id="3xbHb2MYgehzOMDbgd3U-185" value="右侧视图容器(QStackedWidget)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1027" y="217" width="256" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-186" value="按钮组(QButtonGroup)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-186" value="按钮组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="242" y="342" width="222" height="48" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-187" value="火焰监控按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -31,7 +31,7 @@
         <mxCell id="3xbHb2MYgehzOMDbgd3U-190" value="警报管理按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="684" y="449" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-191" value="历史数据页面(History DataPage)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-191" value="历史数据页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="514" y="333" width="213" height="66" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-192" value="传感器监控页面(SensorDashboard)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
