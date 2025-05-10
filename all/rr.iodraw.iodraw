@@ -23,7 +23,7 @@
           <mxGeometry x="70" y="217" width="24" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-7" value="模块初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="194" y="217" width="16" height="103" as="geometry" />
+          <mxGeometry x="194" y="217" width="24" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-8" value="日志系统设置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="384" y="217" width="16" height="113" as="geometry" />
