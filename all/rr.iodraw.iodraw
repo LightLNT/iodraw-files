@@ -41,10 +41,10 @@
           <mxGeometry x="1967" y="136" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-63" value="查询执行器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1872" y="234" width="24" height="120" as="geometry" />
+          <mxGeometry x="1880" y="290" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-64" value="结果处理器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2062" y="234" width="24" height="120" as="geometry" />
+          <mxGeometry x="2050" y="290" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-84" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1300" y="300" width="294" height="120" as="geometry" />
