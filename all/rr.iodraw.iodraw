@@ -14,10 +14,10 @@
           <mxGeometry x="800" y="36" width="24" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-4" value="模块通信" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1334" y="118" width="16" height="122" as="geometry" />
+          <mxGeometry x="1380" y="60" width="16" height="122" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-5" value="资源管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1904" y="118" width="124" height="48" as="geometry" />
+          <mxGeometry x="1958" y="50" width="16" height="102" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-6" value="配置加载" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="217" width="124" height="48" as="geometry" />
