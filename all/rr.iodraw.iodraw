@@ -7,10 +7,10 @@
         <mxCell id="3xbHb2MYgehzOMDbgd3U-98" value="火焰监控界面" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1062.5" y="30" width="121" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-99" target="3xbHb2MYgehzOMDbgd3U-100">
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-99" target="3xbHb2MYgehzOMDbgd3U-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-99" target="3xbHb2MYgehzOMDbgd3U-101">
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-99" target="3xbHb2MYgehzOMDbgd3U-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-99" value="核心功能组件" style="rounded=0;arcSize=20;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
