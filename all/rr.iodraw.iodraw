@@ -13,13 +13,8 @@
         <mxCell id="3xbHb2MYgehzOMDbgd3U-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-122" target="3xbHb2MYgehzOMDbgd3U-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-122" target="3xbHb2MYgehzOMDbgd3U-130">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="660" y="200" />
-              <mxPoint x="782" y="200" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-122" target="3xbHb2MYgehzOMDbgd3U-130">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-122" value="数据库模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="590" y="110" width="140" height="48" as="geometry" />
@@ -46,7 +41,7 @@
           <mxGeometry x="686" y="390" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-130" value="异常处理" style="rounded=0;arcSize=20;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="770" y="220" width="24" height="120" as="geometry" />
+          <mxGeometry x="770" y="230" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-131" value="定时刷新机制" style="rounded=0;arcSize=20;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="770" y="390" width="24" height="120" as="geometry" />
