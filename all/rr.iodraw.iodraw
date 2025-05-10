@@ -55,25 +55,6 @@
         <mxCell id="3xbHb2MYgehzOMDbgd3U-17" value="UI资源管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2066" y="367" width="24" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-2" target="3xbHb2MYgehzOMDbgd3U-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="192" y="362" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-2" target="3xbHb2MYgehzOMDbgd3U-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-2" target="3xbHb2MYgehzOMDbgd3U-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="572" y="362" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-3" target="3xbHb2MYgehzOMDbgd3U-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
