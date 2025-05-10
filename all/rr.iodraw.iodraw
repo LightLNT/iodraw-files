@@ -17,16 +17,16 @@
           <mxGeometry x="1967" y="136" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-55" value="日期范围选择器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="400" y="310" width="172" height="48" as="geometry" />
+          <mxGeometry x="400" y="310" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-56" value="数据过滤选项" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="622" y="234" width="156" height="48" as="geometry" />
+          <mxGeometry x="610" y="320" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-57" value="查询按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="828" y="234" width="124" height="48" as="geometry" />
+          <mxGeometry x="840" y="300" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-58" value="导出按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1002" y="234" width="124" height="48" as="geometry" />
+          <mxGeometry x="1002" y="300" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-59" value="表格模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1176" y="234" width="124" height="48" as="geometry" />
