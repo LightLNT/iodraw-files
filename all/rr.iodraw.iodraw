@@ -20,7 +20,7 @@
           <mxGeometry x="191" y="360" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-187" value="火焰监控按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="520" width="24" height="120" as="geometry" />
+          <mxGeometry x="140" y="500" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-188" value="传感器监控按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="256" y="520" width="24" height="120" as="geometry" />
