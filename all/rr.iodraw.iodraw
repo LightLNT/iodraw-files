@@ -23,10 +23,10 @@
           <mxGeometry x="520" y="230" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-128" value="统计数据查询" style="rounded=1;arcSize=20;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="986" y="266" width="24" height="120" as="geometry" />
+          <mxGeometry x="570" y="386" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-129" value="数据导出功能" style="rounded=1;arcSize=20;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="986" y="364" width="24" height="120" as="geometry" />
+          <mxGeometry x="636" y="386" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-130" value="异常处理" style="rounded=1;arcSize=20;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="826" y="463" width="24" height="120" as="geometry" />
@@ -42,34 +42,6 @@
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-134" value="信号通知机制" style="rounded=1;arcSize=20;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="986" y="660" width="24" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-137" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.958;exitY=0.421;entryX=0;entryY=0.51;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-127" target="3xbHb2MYgehzOMDbgd3U-125">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="961" y="93" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-138" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.25;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-127" target="3xbHb2MYgehzOMDbgd3U-126">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="961" y="192" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-140" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-127" target="3xbHb2MYgehzOMDbgd3U-128">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="961" y="290" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-141" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=1.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-127" target="3xbHb2MYgehzOMDbgd3U-129">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="961" y="389" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-143" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-130" target="3xbHb2MYgehzOMDbgd3U-131">
           <mxGeometry relative="1" as="geometry">
