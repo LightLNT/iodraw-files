@@ -43,21 +43,7 @@
         <mxCell id="3xbHb2MYgehzOMDbgd3U-134" value="信号通知机制" style="rounded=1;arcSize=20;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="986" y="660" width="24" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-135" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-122" target="3xbHb2MYgehzOMDbgd3U-123">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="785" y="44" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-136" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=0;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-122" target="3xbHb2MYgehzOMDbgd3U-124">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="785" y="143" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-137" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=0.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-124" target="3xbHb2MYgehzOMDbgd3U-125">
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-137" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.958;exitY=0.421;entryX=0;entryY=0.51;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-127" target="3xbHb2MYgehzOMDbgd3U-125">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="961" y="93" />
@@ -69,11 +55,6 @@
             <Array as="points">
               <mxPoint x="961" y="192" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-139" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-122" target="3xbHb2MYgehzOMDbgd3U-127">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-140" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-127" target="3xbHb2MYgehzOMDbgd3U-128">
@@ -90,23 +71,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-142" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=1.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-122" target="3xbHb2MYgehzOMDbgd3U-130">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="785" y="487" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-143" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-130" target="3xbHb2MYgehzOMDbgd3U-131">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-144" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=1.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-122" target="3xbHb2MYgehzOMDbgd3U-132">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="785" y="635" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-145" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=0.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-132" target="3xbHb2MYgehzOMDbgd3U-133">
