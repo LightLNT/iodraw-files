@@ -22,6 +22,9 @@
         <mxCell id="3xbHb2MYgehzOMDbgd3U-184" value="左侧导航面板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="750" y="260" width="24" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-185" target="3xbHb2MYgehzOMDbgd3U-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-185" value="右侧视图容器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="983" y="260" width="24" height="120" as="geometry" />
         </mxCell>
@@ -32,6 +35,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-186" target="3xbHb2MYgehzOMDbgd3U-189">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-186" target="3xbHb2MYgehzOMDbgd3U-190">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-186" value="按钮组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
