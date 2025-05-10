@@ -13,6 +13,12 @@
         <mxCell id="3xbHb2MYgehzOMDbgd3U-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-52" target="3xbHb2MYgehzOMDbgd3U-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-52" target="3xbHb2MYgehzOMDbgd3U-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-52" target="3xbHb2MYgehzOMDbgd3U-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-52" value="查询控件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="650" y="150" width="24" height="120" as="geometry" />
         </mxCell>
@@ -39,20 +45,6 @@
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-64" value="结果处理器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2062" y="234" width="24" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-54" target="3xbHb2MYgehzOMDbgd3U-63">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1942" y="209" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-77" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-54" target="3xbHb2MYgehzOMDbgd3U-64">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2132" y="209" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-84" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1300" y="300" width="294" height="120" as="geometry" />
