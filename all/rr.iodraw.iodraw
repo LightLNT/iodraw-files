@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="-j9OJ-jIP5Ct8ChqRZ9D">
-    <mxGraphModel dx="1313" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="486" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-100" value="火焰检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="893" y="217" width="24" height="120" as="geometry" />
+          <mxGeometry x="996" y="250" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-101" target="3xbHb2MYgehzOMDbgd3U-104">
           <mxGeometry relative="1" as="geometry" />
@@ -29,22 +29,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-101" value="视频流控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1304" y="217" width="24" height="120" as="geometry" />
+          <mxGeometry x="1213" y="250" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-102" value="火焰识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="827" y="380" width="24" height="120" as="geometry" />
+          <mxGeometry x="930" y="413" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-103" value="帧处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="960" y="380" width="24" height="120" as="geometry" />
+          <mxGeometry x="1063" y="413" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-104" value="URL输入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="380" width="24" height="120" as="geometry" />
+          <mxGeometry x="1150" y="413" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-105" value="连接按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1304" y="380" width="24" height="120" as="geometry" />
+          <mxGeometry x="1213" y="413" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-106" value="停止按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="380" width="24" height="120" as="geometry" />
+          <mxGeometry x="1279" y="413" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-107" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-98" target="3xbHb2MYgehzOMDbgd3U-99">
           <mxGeometry relative="1" as="geometry">
