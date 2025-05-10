@@ -14,7 +14,7 @@
           <mxGeometry x="750" y="210" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-185" value="右侧视图容器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="984" y="220" width="24" height="120" as="geometry" />
+          <mxGeometry x="983" y="240" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-186" value="按钮组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="611" y="350" width="24" height="120" as="geometry" />
@@ -32,16 +32,16 @@
           <mxGeometry x="770" y="490" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-191" value="历史数据页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="827" y="393" width="24" height="120" as="geometry" />
+          <mxGeometry x="910" y="490" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-192" value="传感器监控页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="874" y="393" width="24" height="120" as="geometry" />
+          <mxGeometry x="957" y="490" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-193" value="火焰监控页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="929" y="393" width="24" height="120" as="geometry" />
+          <mxGeometry x="1012" y="490" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-194" value="警报管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="984" y="393" width="24" height="120" as="geometry" />
+          <mxGeometry x="1067" y="490" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-195" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-182" target="3xbHb2MYgehzOMDbgd3U-183">
           <mxGeometry relative="1" as="geometry">
