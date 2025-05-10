@@ -70,10 +70,10 @@
           <mxGeometry x="610" y="310" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-57" value="查询按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="840" y="290" width="24" height="120" as="geometry" />
+          <mxGeometry x="690" y="310" width="24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-58" value="导出按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1002" y="290" width="24" height="120" as="geometry" />
+          <mxGeometry x="760" y="310" width="24" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
