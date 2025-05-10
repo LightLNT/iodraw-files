@@ -44,6 +44,11 @@
         <mxCell id="3xbHb2MYgehzOMDbgd3U-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-4" target="3xbHb2MYgehzOMDbgd3U-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1450" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-4" value="模块通信" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1340" y="190" width="24" height="130" as="geometry" />
         </mxCell>
@@ -85,25 +90,6 @@
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-17" value="UI资源管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2066" y="367" width="24" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.82;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-5" target="3xbHb2MYgehzOMDbgd3U-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1732" y="342" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-5" target="3xbHb2MYgehzOMDbgd3U-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.83;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-5" target="3xbHb2MYgehzOMDbgd3U-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2135" y="342" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
