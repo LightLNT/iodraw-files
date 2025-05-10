@@ -8,7 +8,7 @@
           <mxGeometry x="1057" y="20" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-2" value="应用初始化与配置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="170" y="118" width="188" height="48" as="geometry" />
+          <mxGeometry x="170" y="118" width="20" height="48" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-3" value="导航与页面切换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="756" y="118" width="172" height="48" as="geometry" />
@@ -62,13 +62,6 @@
             </Array>
             <mxPoint x="2013" y="600" as="sourcePoint" />
             <mxPoint x="1220" y="670.16" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-1" target="3xbHb2MYgehzOMDbgd3U-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="842" y="93" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="3xbHb2MYgehzOMDbgd3U-2" target="3xbHb2MYgehzOMDbgd3U-6">
