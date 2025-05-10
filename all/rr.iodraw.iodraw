@@ -7,14 +7,14 @@
         <mxCell id="3xbHb2MYgehzOMDbgd3U-1" value="系统集成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1057" y="20" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="3xbHb2MYgehzOMDbgd3U-2" value="应用初始化与配置" style="whiteSpace=wrap;strokeWidth=2;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="3xbHb2MYgehzOMDbgd3U-2" value="应用初始化与配置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="334" y="20" width="24" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-3" value="导航与页面切换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="800" y="36" width="24" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-4" value="模块通信" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="60" width="16" height="122" as="geometry" />
+          <mxGeometry x="1380" y="60" width="24" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-5" value="资源管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1958" y="50" width="16" height="102" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="970" y="217" width="24" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-12" value="信号槽连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1144" y="217" width="16" height="93" as="geometry" />
+          <mxGeometry x="1144" y="217" width="24" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3xbHb2MYgehzOMDbgd3U-13" value="数据传输" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1334" y="217" width="124" height="48" as="geometry" />
